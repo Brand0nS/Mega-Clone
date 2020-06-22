@@ -34,7 +34,7 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_9
   - first:
       213: -1340473180464506862
-    second: Megaman-X5-SpriteSheet_10
+    second: WalkAnim2
   - first:
       213: -8659675691220462497
     second: IntroAnim3
@@ -64,10 +64,10 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_19
   - first:
       213: -1907035244265712193
-    second: Megaman-X5-SpriteSheet_20
+    second: WalkAnim3
   - first:
       213: -7018240539853793914
-    second: Megaman-X5-SpriteSheet_21
+    second: IdleAnimX7
   - first:
       213: 4472795112941315080
     second: Megaman-X5-SpriteSheet_22
@@ -76,31 +76,31 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_23
   - first:
       213: 3394258569432945885
-    second: Megaman-X5-SpriteSheet_24
+    second: IdleAnimX1
   - first:
       213: -1347862782512528491
-    second: Megaman-X5-SpriteSheet_25
+    second: IdleAnimX2
   - first:
       213: 5482242450298122204
-    second: Megaman-X5-SpriteSheet_26
+    second: IdleAnimX3
   - first:
       213: -8560491031187666813
-    second: Megaman-X5-SpriteSheet_27
+    second: IdleAnimX4
   - first:
       213: -7799413630283345660
-    second: Megaman-X5-SpriteSheet_28
+    second: IdleAnimX5
   - first:
       213: 3443330402668158511
-    second: Megaman-X5-SpriteSheet_29
+    second: IdleAnimX7
   - first:
       213: -8104467225439367264
-    second: Megaman-X5-SpriteSheet_30
+    second: IdleAnimX10
   - first:
       213: 6892062559513002809
-    second: Megaman-X5-SpriteSheet_31
+    second: IdleAnimX10
   - first:
       213: 4550693813434713983
-    second: Megaman-X5-SpriteSheet_32
+    second: IdleAnimX10
   - first:
       213: -974085163020978768
     second: Megaman-X5-SpriteSheet_33
@@ -163,46 +163,46 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_52
   - first:
       213: -2878163124174307927
-    second: Megaman-X5-SpriteSheet_53
+    second: WalkAnim0
   - first:
       213: -258391177740604607
-    second: Megaman-X5-SpriteSheet_54
+    second: WalkAnim1
   - first:
       213: 4374381331624490976
-    second: Megaman-X5-SpriteSheet_55
+    second: WalkAnim4
   - first:
       213: -6089612473996260552
-    second: Megaman-X5-SpriteSheet_56
+    second: WalkAnim5
   - first:
       213: -761355400969897859
-    second: Megaman-X5-SpriteSheet_57
+    second: WalkAnim8
   - first:
       213: -2648265111674450610
-    second: Megaman-X5-SpriteSheet_58
+    second: WalkAnim9
   - first:
       213: 5481367226559624244
-    second: Megaman-X5-SpriteSheet_59
+    second: WalkAnim10
   - first:
       213: 3983354482943735757
-    second: Megaman-X5-SpriteSheet_60
+    second: WalkAnim11
   - first:
       213: -1276850461309366919
-    second: Megaman-X5-SpriteSheet_61
+    second: WalkAnim12
   - first:
       213: -8824086676100089561
-    second: Megaman-X5-SpriteSheet_62
+    second: WalkAnim13
   - first:
       213: 2539489498567955369
-    second: Megaman-X5-SpriteSheet_63
+    second: WalkAnim14
   - first:
       213: 1521918444490747468
-    second: Megaman-X5-SpriteSheet_64
+    second: WalkAnim15
   - first:
       213: -1876600063154199319
-    second: Megaman-X5-SpriteSheet_65
+    second: WalkAnim6
   - first:
       213: 6964498702538089879
-    second: Megaman-X5-SpriteSheet_66
+    second: WalkAnim7
   - first:
       213: 3149485085244661868
     second: Megaman-X5-SpriteSheet_67
@@ -349,31 +349,31 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_114
   - first:
       213: 9217581670399676403
-    second: Megaman-X5-SpriteSheet_115
+    second: DashStart0
   - first:
       213: 3336520782660760881
-    second: Megaman-X5-SpriteSheet_116
+    second: DashStart1
   - first:
       213: 8268611420017438582
-    second: Megaman-X5-SpriteSheet_117
+    second: Dash0
   - first:
       213: 939179892906034367
-    second: Megaman-X5-SpriteSheet_118
+    second: Dash1
   - first:
       213: -5031336562266752022
-    second: Megaman-X5-SpriteSheet_119
+    second: Dash2
   - first:
       213: 3251945189117889281
-    second: Megaman-X5-SpriteSheet_120
+    second: DashStop0
   - first:
       213: 4128119923195342587
-    second: Megaman-X5-SpriteSheet_121
+    second: DashStop1
   - first:
       213: -208397479490329062
-    second: Megaman-X5-SpriteSheet_122
+    second: DashStop2
   - first:
       213: -1381342951345917815
-    second: Megaman-X5-SpriteSheet_123
+    second: DashStop3
   - first:
       213: 517348412204035585
     second: Megaman-X5-SpriteSheet_124
@@ -2662,7 +2662,7 @@ TextureImporter:
     second: IntroAnim10
   - first:
       213: 1326427320697842920
-    second: Megaman-X5-SpriteSheet_21
+    second: IdleAnimX7
   - first:
       213: -1012337877986446074
     second: Megaman-X5-SpriteSheet_22
@@ -2675,6 +2675,2952 @@ TextureImporter:
   - first:
       213: 1862558216036118075
     second: IntroAnim16
+  - first:
+      213: -1570730149185319389
+    second: Megaman-X5-SpriteSheet_0
+  - first:
+      213: -6851293348243715413
+    second: Megaman-X5-SpriteSheet_1
+  - first:
+      213: 4596539360639651863
+    second: Megaman-X5-SpriteSheet_2
+  - first:
+      213: 6634290438751338849
+    second: Megaman-X5-SpriteSheet_3
+  - first:
+      213: -8396627256525889843
+    second: Megaman-X5-SpriteSheet_4
+  - first:
+      213: 6836878856836941431
+    second: Megaman-X5-SpriteSheet_5
+  - first:
+      213: -3710812716080400287
+    second: Megaman-X5-SpriteSheet_6
+  - first:
+      213: -511763681443698962
+    second: Megaman-X5-SpriteSheet_7
+  - first:
+      213: -6379455080512401612
+    second: Megaman-X5-SpriteSheet_8
+  - first:
+      213: -7826985905083988076
+    second: Megaman-X5-SpriteSheet_9
+  - first:
+      213: 5090662760861790341
+    second: WalkAnim2
+  - first:
+      213: -7811789378707128500
+    second: Megaman-X5-SpriteSheet_11
+  - first:
+      213: 1761546792723714122
+    second: Megaman-X5-SpriteSheet_12
+  - first:
+      213: 8277600651479067886
+    second: Megaman-X5-SpriteSheet_13
+  - first:
+      213: -8666938293792462921
+    second: Megaman-X5-SpriteSheet_14
+  - first:
+      213: -6879418651585284972
+    second: Megaman-X5-SpriteSheet_15
+  - first:
+      213: 7322760452825578797
+    second: Megaman-X5-SpriteSheet_16
+  - first:
+      213: 3188705759550728296
+    second: Megaman-X5-SpriteSheet_17
+  - first:
+      213: 4107333353865757133
+    second: Megaman-X5-SpriteSheet_18
+  - first:
+      213: -1183908983670472798
+    second: Megaman-X5-SpriteSheet_19
+  - first:
+      213: -7583489848613748636
+    second: WalkAnim3
+  - first:
+      213: 1326427320697842920
+    second: Megaman-X5-SpriteSheet_21
+  - first:
+      213: -7751338967688538042
+    second: Megaman-X5-SpriteSheet_24
+  - first:
+      213: -3627041674645092474
+    second: Megaman-X5-SpriteSheet_25
+  - first:
+      213: -8781129187064818700
+    second: Megaman-X5-SpriteSheet_26
+  - first:
+      213: 3252859360410006786
+    second: Megaman-X5-SpriteSheet_27
+  - first:
+      213: 5337251202278579710
+    second: Megaman-X5-SpriteSheet_28
+  - first:
+      213: 3443330402668158511
+    second: Megaman-X5-SpriteSheet_29
+  - first:
+      213: 8167861495038086226
+    second: Megaman-X5-SpriteSheet_30
+  - first:
+      213: 6892062559513002809
+    second: Megaman-X5-SpriteSheet_31
+  - first:
+      213: 4550693813434713983
+    second: Megaman-X5-SpriteSheet_32
+  - first:
+      213: -2240608133024020586
+    second: Megaman-X5-SpriteSheet_33
+  - first:
+      213: 7563347884886473434
+    second: Megaman-X5-SpriteSheet_34
+  - first:
+      213: -4102596816945219021
+    second: Megaman-X5-SpriteSheet_35
+  - first:
+      213: 1949437895387455819
+    second: Megaman-X5-SpriteSheet_36
+  - first:
+      213: -3563417937096092478
+    second: Megaman-X5-SpriteSheet_37
+  - first:
+      213: -2171803356924355187
+    second: Megaman-X5-SpriteSheet_38
+  - first:
+      213: 1247158132889051247
+    second: Megaman-X5-SpriteSheet_39
+  - first:
+      213: -9143113285805827009
+    second: Megaman-X5-SpriteSheet_40
+  - first:
+      213: 2749090867030031875
+    second: Megaman-X5-SpriteSheet_41
+  - first:
+      213: -8877808321935048875
+    second: Megaman-X5-SpriteSheet_42
+  - first:
+      213: 6160465774561400682
+    second: Megaman-X5-SpriteSheet_43
+  - first:
+      213: -6895502732767040360
+    second: Megaman-X5-SpriteSheet_44
+  - first:
+      213: -2081439947467014087
+    second: Megaman-X5-SpriteSheet_45
+  - first:
+      213: 3118953137284750345
+    second: Megaman-X5-SpriteSheet_46
+  - first:
+      213: -3087281046975609502
+    second: Megaman-X5-SpriteSheet_47
+  - first:
+      213: -2797227682845591080
+    second: Megaman-X5-SpriteSheet_48
+  - first:
+      213: -4407273725737321864
+    second: Megaman-X5-SpriteSheet_49
+  - first:
+      213: 5423230880643977401
+    second: Megaman-X5-SpriteSheet_50
+  - first:
+      213: -4716388265814736192
+    second: Megaman-X5-SpriteSheet_51
+  - first:
+      213: 5802996051703534731
+    second: Megaman-X5-SpriteSheet_52
+  - first:
+      213: 7480424587287255360
+    second: WalkAnim0
+  - first:
+      213: 7826415148280047439
+    second: WalkAnim1
+  - first:
+      213: -6795124355083842839
+    second: WalkAnim4
+  - first:
+      213: 1642706419969556992
+    second: WalkAnim5
+  - first:
+      213: 8416293740418950424
+    second: WalkAnim8
+  - first:
+      213: -4376906937005997849
+    second: WalkAnim9
+  - first:
+      213: 7982767752061798583
+    second: WalkAnim10
+  - first:
+      213: 1428508467604717653
+    second: WalkAnim11
+  - first:
+      213: -8340881106471674370
+    second: WalkAnim12
+  - first:
+      213: -8125025867468271533
+    second: WalkAnim13
+  - first:
+      213: 227777990116202890
+    second: WalkAnim14
+  - first:
+      213: -2944980694088389333
+    second: WalkAnim15
+  - first:
+      213: -6668814745452747004
+    second: WalkAnim6
+  - first:
+      213: -8142877469105006865
+    second: WalkAnim7
+  - first:
+      213: -3870267951780826113
+    second: Megaman-X5-SpriteSheet_67
+  - first:
+      213: 7768169632470936247
+    second: Megaman-X5-SpriteSheet_68
+  - first:
+      213: -7931393980388180302
+    second: Megaman-X5-SpriteSheet_71
+  - first:
+      213: 1937616238116564346
+    second: Megaman-X5-SpriteSheet_72
+  - first:
+      213: -5940468746931919086
+    second: Megaman-X5-SpriteSheet_73
+  - first:
+      213: -5213373027556444810
+    second: Megaman-X5-SpriteSheet_74
+  - first:
+      213: 7911273554460945229
+    second: Megaman-X5-SpriteSheet_75
+  - first:
+      213: 428272745840422005
+    second: Megaman-X5-SpriteSheet_76
+  - first:
+      213: 2152788932724797839
+    second: Megaman-X5-SpriteSheet_77
+  - first:
+      213: 1336813730203391600
+    second: Megaman-X5-SpriteSheet_78
+  - first:
+      213: -1914190854146554548
+    second: Megaman-X5-SpriteSheet_79
+  - first:
+      213: 1807673260166835058
+    second: Megaman-X5-SpriteSheet_80
+  - first:
+      213: 4540767192589550792
+    second: Megaman-X5-SpriteSheet_81
+  - first:
+      213: 5045025541318204872
+    second: Megaman-X5-SpriteSheet_82
+  - first:
+      213: -2882568299148091027
+    second: Megaman-X5-SpriteSheet_83
+  - first:
+      213: 1540944024897730462
+    second: Megaman-X5-SpriteSheet_84
+  - first:
+      213: -7149683022574336658
+    second: Megaman-X5-SpriteSheet_85
+  - first:
+      213: 6471443259511068853
+    second: Megaman-X5-SpriteSheet_87
+  - first:
+      213: -2680819865500730513
+    second: Megaman-X5-SpriteSheet_88
+  - first:
+      213: -3087755343199033855
+    second: Megaman-X5-SpriteSheet_89
+  - first:
+      213: -8491115407027600194
+    second: Megaman-X5-SpriteSheet_90
+  - first:
+      213: -1168436915865262081
+    second: Megaman-X5-SpriteSheet_91
+  - first:
+      213: -7046364418900896441
+    second: Megaman-X5-SpriteSheet_92
+  - first:
+      213: -5085457822265252607
+    second: Megaman-X5-SpriteSheet_93
+  - first:
+      213: 4814005201454980749
+    second: Megaman-X5-SpriteSheet_94
+  - first:
+      213: -5854623939709042444
+    second: Megaman-X5-SpriteSheet_95
+  - first:
+      213: -8495527474521417736
+    second: Megaman-X5-SpriteSheet_96
+  - first:
+      213: -3013831286753787387
+    second: Megaman-X5-SpriteSheet_97
+  - first:
+      213: 4629863207890516172
+    second: Megaman-X5-SpriteSheet_98
+  - first:
+      213: 3062565508138177743
+    second: Megaman-X5-SpriteSheet_99
+  - first:
+      213: -2034178700917167125
+    second: Megaman-X5-SpriteSheet_107
+  - first:
+      213: 172771998849776777
+    second: Megaman-X5-SpriteSheet_108
+  - first:
+      213: -2472796660160590883
+    second: Megaman-X5-SpriteSheet_109
+  - first:
+      213: -5472036257988408529
+    second: Megaman-X5-SpriteSheet_110
+  - first:
+      213: -5135955685485747353
+    second: Megaman-X5-SpriteSheet_111
+  - first:
+      213: 9165616046400250590
+    second: Megaman-X5-SpriteSheet_112
+  - first:
+      213: 8547825274228792726
+    second: Megaman-X5-SpriteSheet_113
+  - first:
+      213: 4249631596601698855
+    second: Megaman-X5-SpriteSheet_114
+  - first:
+      213: -9222416342401765948
+    second: DashStart0
+  - first:
+      213: -6824279380277788247
+    second: DashStart1
+  - first:
+      213: -8979465549925564552
+    second: Dash0
+  - first:
+      213: -368646037878306084
+    second: Dash1
+  - first:
+      213: -1353282994925638252
+    second: Dash2
+  - first:
+      213: -5753652882592860863
+    second: DashStop0
+  - first:
+      213: -4197934715236140258
+    second: DashStop1
+  - first:
+      213: 882840850969759035
+    second: DashStop2
+  - first:
+      213: -4737104690265915121
+    second: DashStop3
+  - first:
+      213: -8386349743136658643
+    second: Megaman-X5-SpriteSheet_124
+  - first:
+      213: 3258192802126618052
+    second: Megaman-X5-SpriteSheet_125
+  - first:
+      213: 6074124234600988307
+    second: Megaman-X5-SpriteSheet_126
+  - first:
+      213: 6521272470875513623
+    second: Megaman-X5-SpriteSheet_127
+  - first:
+      213: -5126363374927736671
+    second: Megaman-X5-SpriteSheet_128
+  - first:
+      213: -609119349797006564
+    second: Megaman-X5-SpriteSheet_129
+  - first:
+      213: -7581547088593823472
+    second: Megaman-X5-SpriteSheet_130
+  - first:
+      213: -2648891641833169952
+    second: Megaman-X5-SpriteSheet_131
+  - first:
+      213: -6025092822500201764
+    second: Megaman-X5-SpriteSheet_132
+  - first:
+      213: 1011228878488322190
+    second: Megaman-X5-SpriteSheet_133
+  - first:
+      213: -8920371454910730067
+    second: Megaman-X5-SpriteSheet_134
+  - first:
+      213: -2254590034401964366
+    second: Megaman-X5-SpriteSheet_135
+  - first:
+      213: -6171769332155491680
+    second: Megaman-X5-SpriteSheet_136
+  - first:
+      213: 3645920455154194843
+    second: Megaman-X5-SpriteSheet_138
+  - first:
+      213: 4837720874539624813
+    second: Megaman-X5-SpriteSheet_143
+  - first:
+      213: 879024354896509135
+    second: Megaman-X5-SpriteSheet_144
+  - first:
+      213: 8423690894333527422
+    second: Megaman-X5-SpriteSheet_145
+  - first:
+      213: 4306942644613651527
+    second: Megaman-X5-SpriteSheet_146
+  - first:
+      213: -3984569704160474857
+    second: Megaman-X5-SpriteSheet_147
+  - first:
+      213: 6419157534454039129
+    second: Megaman-X5-SpriteSheet_148
+  - first:
+      213: 9013690943886790717
+    second: Megaman-X5-SpriteSheet_149
+  - first:
+      213: 4175482081629318787
+    second: Megaman-X5-SpriteSheet_150
+  - first:
+      213: 3964179475037805815
+    second: Megaman-X5-SpriteSheet_151
+  - first:
+      213: 7317000633295774491
+    second: Megaman-X5-SpriteSheet_152
+  - first:
+      213: -7237236742060499111
+    second: Megaman-X5-SpriteSheet_153
+  - first:
+      213: -657886675207588921
+    second: Megaman-X5-SpriteSheet_154
+  - first:
+      213: -6211136074415726360
+    second: Megaman-X5-SpriteSheet_155
+  - first:
+      213: -3671407719449712923
+    second: Megaman-X5-SpriteSheet_156
+  - first:
+      213: 5071921725027794884
+    second: Megaman-X5-SpriteSheet_157
+  - first:
+      213: -2677005941791668838
+    second: Megaman-X5-SpriteSheet_158
+  - first:
+      213: 5273637356333631663
+    second: Megaman-X5-SpriteSheet_159
+  - first:
+      213: -2194142336069904335
+    second: Megaman-X5-SpriteSheet_160
+  - first:
+      213: 6484080694125732554
+    second: Megaman-X5-SpriteSheet_161
+  - first:
+      213: -7018088220152828988
+    second: Megaman-X5-SpriteSheet_162
+  - first:
+      213: 8479958312320692515
+    second: Megaman-X5-SpriteSheet_163
+  - first:
+      213: -7665377506771211448
+    second: Megaman-X5-SpriteSheet_164
+  - first:
+      213: 6722715304080886604
+    second: Megaman-X5-SpriteSheet_165
+  - first:
+      213: 6665599970271194385
+    second: Megaman-X5-SpriteSheet_166
+  - first:
+      213: -8375465774026073803
+    second: Megaman-X5-SpriteSheet_167
+  - first:
+      213: 7824067765372537137
+    second: Megaman-X5-SpriteSheet_168
+  - first:
+      213: -6495903115692678312
+    second: Megaman-X5-SpriteSheet_169
+  - first:
+      213: 3148374790961888739
+    second: Megaman-X5-SpriteSheet_170
+  - first:
+      213: 4789563213078949735
+    second: Megaman-X5-SpriteSheet_171
+  - first:
+      213: -5987271223622056352
+    second: Megaman-X5-SpriteSheet_172
+  - first:
+      213: -2259949980117193350
+    second: Megaman-X5-SpriteSheet_173
+  - first:
+      213: -2115526728625154312
+    second: Megaman-X5-SpriteSheet_174
+  - first:
+      213: -5697113927986518162
+    second: Megaman-X5-SpriteSheet_175
+  - first:
+      213: -7220527162103655858
+    second: Megaman-X5-SpriteSheet_176
+  - first:
+      213: 6119850038766845416
+    second: Megaman-X5-SpriteSheet_177
+  - first:
+      213: -1989909765329245720
+    second: Megaman-X5-SpriteSheet_178
+  - first:
+      213: -3558016917688232109
+    second: Megaman-X5-SpriteSheet_179
+  - first:
+      213: -2226799287870474044
+    second: Megaman-X5-SpriteSheet_180
+  - first:
+      213: -6863823197262835078
+    second: Megaman-X5-SpriteSheet_181
+  - first:
+      213: -7803471885057034461
+    second: Megaman-X5-SpriteSheet_182
+  - first:
+      213: 2714818915814337912
+    second: Megaman-X5-SpriteSheet_183
+  - first:
+      213: -1647774456963968425
+    second: Megaman-X5-SpriteSheet_184
+  - first:
+      213: -1957443327705142322
+    second: Megaman-X5-SpriteSheet_185
+  - first:
+      213: -3164823025815042097
+    second: Megaman-X5-SpriteSheet_186
+  - first:
+      213: 5596473169700037139
+    second: Megaman-X5-SpriteSheet_187
+  - first:
+      213: 1891410575256724458
+    second: Megaman-X5-SpriteSheet_188
+  - first:
+      213: -7346641184072283532
+    second: Megaman-X5-SpriteSheet_189
+  - first:
+      213: -5734832512522819009
+    second: Megaman-X5-SpriteSheet_190
+  - first:
+      213: 2606204496722956729
+    second: Megaman-X5-SpriteSheet_191
+  - first:
+      213: -2416023546015177872
+    second: Megaman-X5-SpriteSheet_192
+  - first:
+      213: 775057887187598598
+    second: Megaman-X5-SpriteSheet_193
+  - first:
+      213: 5139860452268245262
+    second: Megaman-X5-SpriteSheet_194
+  - first:
+      213: -7513357516961288277
+    second: Megaman-X5-SpriteSheet_195
+  - first:
+      213: -6480835504306385330
+    second: Megaman-X5-SpriteSheet_196
+  - first:
+      213: -607126285560166523
+    second: Megaman-X5-SpriteSheet_197
+  - first:
+      213: -693474820301858658
+    second: Megaman-X5-SpriteSheet_198
+  - first:
+      213: 3874475399731357821
+    second: Megaman-X5-SpriteSheet_199
+  - first:
+      213: -8364573830912886659
+    second: Megaman-X5-SpriteSheet_200
+  - first:
+      213: -5453833373925902261
+    second: Megaman-X5-SpriteSheet_201
+  - first:
+      213: -3388155566727626432
+    second: Megaman-X5-SpriteSheet_202
+  - first:
+      213: 1568576043698923877
+    second: Megaman-X5-SpriteSheet_203
+  - first:
+      213: 3245884396490798809
+    second: Megaman-X5-SpriteSheet_204
+  - first:
+      213: -5800407874794742388
+    second: Megaman-X5-SpriteSheet_205
+  - first:
+      213: -6546403226129779860
+    second: Megaman-X5-SpriteSheet_206
+  - first:
+      213: 5044562503545917991
+    second: Megaman-X5-SpriteSheet_207
+  - first:
+      213: 4818710430778025137
+    second: Megaman-X5-SpriteSheet_208
+  - first:
+      213: 6091410648771940692
+    second: Megaman-X5-SpriteSheet_209
+  - first:
+      213: 5304842431289890965
+    second: Megaman-X5-SpriteSheet_210
+  - first:
+      213: 2704902445733076256
+    second: Megaman-X5-SpriteSheet_211
+  - first:
+      213: 3023680614369921172
+    second: Megaman-X5-SpriteSheet_212
+  - first:
+      213: -2178256891483893820
+    second: Megaman-X5-SpriteSheet_213
+  - first:
+      213: 906651030034264847
+    second: Megaman-X5-SpriteSheet_214
+  - first:
+      213: -2901839837473215513
+    second: Megaman-X5-SpriteSheet_215
+  - first:
+      213: 2799683242632965945
+    second: Megaman-X5-SpriteSheet_216
+  - first:
+      213: -1007075262200944977
+    second: Megaman-X5-SpriteSheet_217
+  - first:
+      213: -1539000265615734364
+    second: Megaman-X5-SpriteSheet_218
+  - first:
+      213: 1949343750990713284
+    second: Megaman-X5-SpriteSheet_219
+  - first:
+      213: -1539864017216751348
+    second: Megaman-X5-SpriteSheet_220
+  - first:
+      213: 7263022990514069630
+    second: Megaman-X5-SpriteSheet_221
+  - first:
+      213: -3142496423446303026
+    second: Megaman-X5-SpriteSheet_222
+  - first:
+      213: -2241337643855165454
+    second: Megaman-X5-SpriteSheet_223
+  - first:
+      213: 8516215639290312014
+    second: Megaman-X5-SpriteSheet_224
+  - first:
+      213: 8504435737893812694
+    second: Megaman-X5-SpriteSheet_225
+  - first:
+      213: 3038016280988353614
+    second: Megaman-X5-SpriteSheet_226
+  - first:
+      213: -1032454913542823083
+    second: Megaman-X5-SpriteSheet_227
+  - first:
+      213: -7162773301601172477
+    second: Megaman-X5-SpriteSheet_228
+  - first:
+      213: -6956333940655933271
+    second: Megaman-X5-SpriteSheet_229
+  - first:
+      213: -7274547800826480809
+    second: Megaman-X5-SpriteSheet_230
+  - first:
+      213: 6199883034421846018
+    second: Megaman-X5-SpriteSheet_231
+  - first:
+      213: -6358349772427826166
+    second: Megaman-X5-SpriteSheet_232
+  - first:
+      213: -3231322917955912440
+    second: Megaman-X5-SpriteSheet_233
+  - first:
+      213: -3067113175183793702
+    second: Megaman-X5-SpriteSheet_234
+  - first:
+      213: 7419273957412036005
+    second: Megaman-X5-SpriteSheet_235
+  - first:
+      213: 291445858153458601
+    second: Megaman-X5-SpriteSheet_236
+  - first:
+      213: 8939417966701989325
+    second: Megaman-X5-SpriteSheet_237
+  - first:
+      213: -2933815432536681340
+    second: Megaman-X5-SpriteSheet_238
+  - first:
+      213: 5068760390120244812
+    second: Megaman-X5-SpriteSheet_239
+  - first:
+      213: -2243515243386282038
+    second: Megaman-X5-SpriteSheet_240
+  - first:
+      213: -8355216283187827246
+    second: Megaman-X5-SpriteSheet_241
+  - first:
+      213: -3989134316233664867
+    second: Megaman-X5-SpriteSheet_242
+  - first:
+      213: 5719663660886640743
+    second: Megaman-X5-SpriteSheet_245
+  - first:
+      213: -6712834034090192970
+    second: Megaman-X5-SpriteSheet_246
+  - first:
+      213: -2565014837690243339
+    second: Megaman-X5-SpriteSheet_247
+  - first:
+      213: -8984969418876170605
+    second: Megaman-X5-SpriteSheet_248
+  - first:
+      213: -2171672279110152413
+    second: Megaman-X5-SpriteSheet_249
+  - first:
+      213: -2967825323279862954
+    second: Megaman-X5-SpriteSheet_250
+  - first:
+      213: -208073278033984260
+    second: Megaman-X5-SpriteSheet_251
+  - first:
+      213: -5980540820524271109
+    second: Megaman-X5-SpriteSheet_252
+  - first:
+      213: -7723808807496949039
+    second: Megaman-X5-SpriteSheet_253
+  - first:
+      213: 7595081280472148819
+    second: Megaman-X5-SpriteSheet_254
+  - first:
+      213: -1074889880506443216
+    second: Megaman-X5-SpriteSheet_255
+  - first:
+      213: 8703767630715993607
+    second: Megaman-X5-SpriteSheet_256
+  - first:
+      213: 2570020280274590114
+    second: Megaman-X5-SpriteSheet_257
+  - first:
+      213: -1966467379890341858
+    second: Megaman-X5-SpriteSheet_258
+  - first:
+      213: 7897893484969512345
+    second: Megaman-X5-SpriteSheet_259
+  - first:
+      213: -8152391344716948403
+    second: Megaman-X5-SpriteSheet_263
+  - first:
+      213: 2240479463246699886
+    second: Megaman-X5-SpriteSheet_266
+  - first:
+      213: -1096298236792066916
+    second: Megaman-X5-SpriteSheet_267
+  - first:
+      213: -7294988473303745668
+    second: Megaman-X5-SpriteSheet_268
+  - first:
+      213: -9099271345051603457
+    second: Megaman-X5-SpriteSheet_269
+  - first:
+      213: 5337580338628277830
+    second: Megaman-X5-SpriteSheet_270
+  - first:
+      213: 8666776104307806667
+    second: Megaman-X5-SpriteSheet_271
+  - first:
+      213: -2972596206025512682
+    second: Megaman-X5-SpriteSheet_272
+  - first:
+      213: -3685568782682729150
+    second: Megaman-X5-SpriteSheet_273
+  - first:
+      213: -4150644205255771968
+    second: Megaman-X5-SpriteSheet_274
+  - first:
+      213: -3592005280346225274
+    second: Megaman-X5-SpriteSheet_275
+  - first:
+      213: 6431075862287748984
+    second: Megaman-X5-SpriteSheet_276
+  - first:
+      213: -7417421982178247046
+    second: Megaman-X5-SpriteSheet_277
+  - first:
+      213: -2267624831280166740
+    second: Megaman-X5-SpriteSheet_278
+  - first:
+      213: -8979694724990391401
+    second: Megaman-X5-SpriteSheet_279
+  - first:
+      213: 1213161859880127624
+    second: Megaman-X5-SpriteSheet_280
+  - first:
+      213: -783559061543602886
+    second: Megaman-X5-SpriteSheet_281
+  - first:
+      213: 3432611141431321483
+    second: Megaman-X5-SpriteSheet_282
+  - first:
+      213: 6371982564705572843
+    second: Megaman-X5-SpriteSheet_283
+  - first:
+      213: -3993470575711755138
+    second: Megaman-X5-SpriteSheet_287
+  - first:
+      213: 653227092982074862
+    second: Megaman-X5-SpriteSheet_288
+  - first:
+      213: 5107691765894070639
+    second: Megaman-X5-SpriteSheet_289
+  - first:
+      213: -5876247977556605769
+    second: Megaman-X5-SpriteSheet_290
+  - first:
+      213: -2953400100001245549
+    second: Megaman-X5-SpriteSheet_291
+  - first:
+      213: 2627771335191792590
+    second: Megaman-X5-SpriteSheet_292
+  - first:
+      213: 1239670824108345701
+    second: Megaman-X5-SpriteSheet_293
+  - first:
+      213: 4874152520693110167
+    second: Megaman-X5-SpriteSheet_294
+  - first:
+      213: 8445912466419962084
+    second: Megaman-X5-SpriteSheet_295
+  - first:
+      213: 101863826686193642
+    second: Megaman-X5-SpriteSheet_296
+  - first:
+      213: 9033798822613317416
+    second: Megaman-X5-SpriteSheet_297
+  - first:
+      213: -65969618496025780
+    second: Megaman-X5-SpriteSheet_298
+  - first:
+      213: -5828757701663234596
+    second: Megaman-X5-SpriteSheet_299
+  - first:
+      213: -6830238383906720837
+    second: Megaman-X5-SpriteSheet_300
+  - first:
+      213: 6284056271238536921
+    second: Megaman-X5-SpriteSheet_301
+  - first:
+      213: 8107386745988408257
+    second: Megaman-X5-SpriteSheet_305
+  - first:
+      213: 3887005777589110325
+    second: Megaman-X5-SpriteSheet_306
+  - first:
+      213: 4276684243795617129
+    second: Megaman-X5-SpriteSheet_311
+  - first:
+      213: -5603621630031424748
+    second: Megaman-X5-SpriteSheet_312
+  - first:
+      213: 6460399162771726935
+    second: Megaman-X5-SpriteSheet_313
+  - first:
+      213: -145140228346472256
+    second: Megaman-X5-SpriteSheet_314
+  - first:
+      213: -3338538162157540880
+    second: Megaman-X5-SpriteSheet_315
+  - first:
+      213: -4367036646448972653
+    second: Megaman-X5-SpriteSheet_316
+  - first:
+      213: -5700564171375067675
+    second: Megaman-X5-SpriteSheet_317
+  - first:
+      213: -5552853209071665812
+    second: Megaman-X5-SpriteSheet_318
+  - first:
+      213: -8273119517010312722
+    second: Megaman-X5-SpriteSheet_319
+  - first:
+      213: -7097268978202492338
+    second: Megaman-X5-SpriteSheet_320
+  - first:
+      213: -2242451933110889266
+    second: Megaman-X5-SpriteSheet_321
+  - first:
+      213: -4245111706511424252
+    second: Megaman-X5-SpriteSheet_322
+  - first:
+      213: -6864863507027408181
+    second: Megaman-X5-SpriteSheet_323
+  - first:
+      213: 318985169626296586
+    second: Megaman-X5-SpriteSheet_324
+  - first:
+      213: 8929039672344012891
+    second: Megaman-X5-SpriteSheet_325
+  - first:
+      213: 418833537181264317
+    second: Megaman-X5-SpriteSheet_326
+  - first:
+      213: 6096213105771897987
+    second: Megaman-X5-SpriteSheet_328
+  - first:
+      213: -6794344714838098835
+    second: Megaman-X5-SpriteSheet_329
+  - first:
+      213: 3662742061121397675
+    second: Megaman-X5-SpriteSheet_330
+  - first:
+      213: -6058654673011004325
+    second: Megaman-X5-SpriteSheet_331
+  - first:
+      213: 5874314989326944111
+    second: Megaman-X5-SpriteSheet_332
+  - first:
+      213: 384979114790341041
+    second: Megaman-X5-SpriteSheet_333
+  - first:
+      213: -3041940541032668573
+    second: Megaman-X5-SpriteSheet_334
+  - first:
+      213: -8366312118879994540
+    second: Megaman-X5-SpriteSheet_335
+  - first:
+      213: -6977591976199057432
+    second: Megaman-X5-SpriteSheet_336
+  - first:
+      213: -5139385675249241281
+    second: Megaman-X5-SpriteSheet_337
+  - first:
+      213: -1757707457596300904
+    second: Megaman-X5-SpriteSheet_338
+  - first:
+      213: 7031608684352580551
+    second: Megaman-X5-SpriteSheet_339
+  - first:
+      213: 5651742696131264975
+    second: Megaman-X5-SpriteSheet_340
+  - first:
+      213: 8990121786323282150
+    second: Megaman-X5-SpriteSheet_343
+  - first:
+      213: -7740169475735318776
+    second: Megaman-X5-SpriteSheet_346
+  - first:
+      213: -76131477636835439
+    second: Megaman-X5-SpriteSheet_347
+  - first:
+      213: 4813058382965047090
+    second: Megaman-X5-SpriteSheet_349
+  - first:
+      213: 4439126606876145188
+    second: Megaman-X5-SpriteSheet_350
+  - first:
+      213: 3467015808896761332
+    second: Megaman-X5-SpriteSheet_351
+  - first:
+      213: -781595464579234738
+    second: Megaman-X5-SpriteSheet_352
+  - first:
+      213: -7853678689351793039
+    second: Megaman-X5-SpriteSheet_354
+  - first:
+      213: -8933571065382357023
+    second: Megaman-X5-SpriteSheet_356
+  - first:
+      213: -4298221097696976175
+    second: Megaman-X5-SpriteSheet_358
+  - first:
+      213: 1592948183057094984
+    second: Megaman-X5-SpriteSheet_359
+  - first:
+      213: -4676235403955768459
+    second: Megaman-X5-SpriteSheet_360
+  - first:
+      213: -6204736532697219394
+    second: Megaman-X5-SpriteSheet_361
+  - first:
+      213: 9018952302950952486
+    second: Megaman-X5-SpriteSheet_362
+  - first:
+      213: 8621139656192395249
+    second: Megaman-X5-SpriteSheet_363
+  - first:
+      213: -2672836501856246328
+    second: Megaman-X5-SpriteSheet_364
+  - first:
+      213: 744482022234954596
+    second: Megaman-X5-SpriteSheet_367
+  - first:
+      213: 8333173093539737271
+    second: Megaman-X5-SpriteSheet_368
+  - first:
+      213: -5178052936304404297
+    second: Megaman-X5-SpriteSheet_369
+  - first:
+      213: 8489850209955793915
+    second: Megaman-X5-SpriteSheet_370
+  - first:
+      213: 5195042501285867086
+    second: Megaman-X5-SpriteSheet_372
+  - first:
+      213: 4045059855103678470
+    second: Megaman-X5-SpriteSheet_373
+  - first:
+      213: -1217339654330923351
+    second: Megaman-X5-SpriteSheet_375
+  - first:
+      213: 1332859538470670947
+    second: Megaman-X5-SpriteSheet_377
+  - first:
+      213: 8233737522792332160
+    second: Megaman-X5-SpriteSheet_378
+  - first:
+      213: -546687859689159923
+    second: Megaman-X5-SpriteSheet_382
+  - first:
+      213: -1919374505918626128
+    second: Megaman-X5-SpriteSheet_383
+  - first:
+      213: -2158300471950791472
+    second: Megaman-X5-SpriteSheet_384
+  - first:
+      213: 2679895485818658372
+    second: Megaman-X5-SpriteSheet_385
+  - first:
+      213: 5663355452372795709
+    second: Megaman-X5-SpriteSheet_386
+  - first:
+      213: 9005493829664306634
+    second: Megaman-X5-SpriteSheet_388
+  - first:
+      213: -6722640666086282250
+    second: Megaman-X5-SpriteSheet_389
+  - first:
+      213: -2693864766771645936
+    second: Megaman-X5-SpriteSheet_391
+  - first:
+      213: 4474363397421310958
+    second: Megaman-X5-SpriteSheet_392
+  - first:
+      213: -8680045601528773769
+    second: Megaman-X5-SpriteSheet_393
+  - first:
+      213: -5922603961195560035
+    second: Megaman-X5-SpriteSheet_394
+  - first:
+      213: -4799245329666880686
+    second: Megaman-X5-SpriteSheet_396
+  - first:
+      213: -7804585999287494962
+    second: Megaman-X5-SpriteSheet_397
+  - first:
+      213: -4515030083254644339
+    second: Megaman-X5-SpriteSheet_398
+  - first:
+      213: 2930817341552054242
+    second: Megaman-X5-SpriteSheet_401
+  - first:
+      213: 4881884353568679191
+    second: Megaman-X5-SpriteSheet_402
+  - first:
+      213: -6953815202037612002
+    second: Megaman-X5-SpriteSheet_404
+  - first:
+      213: -3120059002732922380
+    second: Megaman-X5-SpriteSheet_405
+  - first:
+      213: -2796557032500150840
+    second: Megaman-X5-SpriteSheet_407
+  - first:
+      213: 1698514635759431194
+    second: Megaman-X5-SpriteSheet_408
+  - first:
+      213: -930628629697665967
+    second: Megaman-X5-SpriteSheet_410
+  - first:
+      213: -5338811119830763660
+    second: Megaman-X5-SpriteSheet_411
+  - first:
+      213: -1093799006852713323
+    second: Megaman-X5-SpriteSheet_413
+  - first:
+      213: -5122102700830196661
+    second: Megaman-X5-SpriteSheet_414
+  - first:
+      213: 8827644704132828365
+    second: Megaman-X5-SpriteSheet_415
+  - first:
+      213: -2562304702742928897
+    second: Megaman-X5-SpriteSheet_416
+  - first:
+      213: -6655207669601569216
+    second: Megaman-X5-SpriteSheet_417
+  - first:
+      213: 5692674028006209417
+    second: Megaman-X5-SpriteSheet_418
+  - first:
+      213: 4341927039690922743
+    second: Megaman-X5-SpriteSheet_419
+  - first:
+      213: -6772139012781078408
+    second: Megaman-X5-SpriteSheet_421
+  - first:
+      213: -1404615933976329735
+    second: Megaman-X5-SpriteSheet_422
+  - first:
+      213: -5862914041481137769
+    second: Megaman-X5-SpriteSheet_423
+  - first:
+      213: 7163020231490278477
+    second: Megaman-X5-SpriteSheet_424
+  - first:
+      213: 649759517312946500
+    second: Megaman-X5-SpriteSheet_426
+  - first:
+      213: 9065308505862349499
+    second: Megaman-X5-SpriteSheet_429
+  - first:
+      213: -2361831156369554143
+    second: Megaman-X5-SpriteSheet_430
+  - first:
+      213: -1907030956553504372
+    second: Megaman-X5-SpriteSheet_431
+  - first:
+      213: 4131024943777085305
+    second: Megaman-X5-SpriteSheet_432
+  - first:
+      213: 6801507049590061324
+    second: Megaman-X5-SpriteSheet_433
+  - first:
+      213: -2810056856378703184
+    second: Megaman-X5-SpriteSheet_434
+  - first:
+      213: -5353137896510726085
+    second: Megaman-X5-SpriteSheet_435
+  - first:
+      213: 5601070264201864451
+    second: Megaman-X5-SpriteSheet_436
+  - first:
+      213: -5463865177088458001
+    second: Megaman-X5-SpriteSheet_437
+  - first:
+      213: -7687053980564010398
+    second: Megaman-X5-SpriteSheet_438
+  - first:
+      213: -6210722374975209896
+    second: Megaman-X5-SpriteSheet_439
+  - first:
+      213: 5494294389474820881
+    second: Megaman-X5-SpriteSheet_443
+  - first:
+      213: -7002189476360760057
+    second: Megaman-X5-SpriteSheet_444
+  - first:
+      213: -366028595134515428
+    second: Megaman-X5-SpriteSheet_445
+  - first:
+      213: 3596603756717409604
+    second: Megaman-X5-SpriteSheet_446
+  - first:
+      213: 9104057300815589156
+    second: Megaman-X5-SpriteSheet_447
+  - first:
+      213: -4701873627275250133
+    second: Megaman-X5-SpriteSheet_448
+  - first:
+      213: 8358140071214241919
+    second: Megaman-X5-SpriteSheet_449
+  - first:
+      213: 6896951090475229181
+    second: Megaman-X5-SpriteSheet_450
+  - first:
+      213: 5808662821454124664
+    second: Megaman-X5-SpriteSheet_451
+  - first:
+      213: 3626033169260462516
+    second: Megaman-X5-SpriteSheet_452
+  - first:
+      213: 1610748988214415547
+    second: Megaman-X5-SpriteSheet_453
+  - first:
+      213: -1542721030140540616
+    second: Megaman-X5-SpriteSheet_455
+  - first:
+      213: 3407355956331110197
+    second: Megaman-X5-SpriteSheet_456
+  - first:
+      213: 6595030608627783050
+    second: Megaman-X5-SpriteSheet_457
+  - first:
+      213: -3535718726724661854
+    second: Megaman-X5-SpriteSheet_458
+  - first:
+      213: 6621636441526346789
+    second: Megaman-X5-SpriteSheet_459
+  - first:
+      213: 3546093377327621697
+    second: Megaman-X5-SpriteSheet_460
+  - first:
+      213: 7745796573145436931
+    second: Megaman-X5-SpriteSheet_461
+  - first:
+      213: -7252793047804392437
+    second: Megaman-X5-SpriteSheet_463
+  - first:
+      213: -2514179688952919909
+    second: Megaman-X5-SpriteSheet_464
+  - first:
+      213: 5458460282316657052
+    second: Megaman-X5-SpriteSheet_465
+  - first:
+      213: 3218868541829911688
+    second: Megaman-X5-SpriteSheet_466
+  - first:
+      213: -7751552170560170440
+    second: Megaman-X5-SpriteSheet_467
+  - first:
+      213: -7878631136749810061
+    second: Megaman-X5-SpriteSheet_468
+  - first:
+      213: -8805284706470734345
+    second: Megaman-X5-SpriteSheet_469
+  - first:
+      213: -5233531399702238981
+    second: Megaman-X5-SpriteSheet_471
+  - first:
+      213: 1919447972550116932
+    second: Megaman-X5-SpriteSheet_475
+  - first:
+      213: -5511218969810858261
+    second: Megaman-X5-SpriteSheet_476
+  - first:
+      213: -5895137910473239987
+    second: Megaman-X5-SpriteSheet_481
+  - first:
+      213: 746911393888832282
+    second: Megaman-X5-SpriteSheet_482
+  - first:
+      213: -2004931782843641608
+    second: Megaman-X5-SpriteSheet_483
+  - first:
+      213: 1507799913275193410
+    second: Megaman-X5-SpriteSheet_484
+  - first:
+      213: -1439216209300474790
+    second: Megaman-X5-SpriteSheet_485
+  - first:
+      213: 4956948515909672405
+    second: Megaman-X5-SpriteSheet_486
+  - first:
+      213: -8982804123127053630
+    second: Megaman-X5-SpriteSheet_487
+  - first:
+      213: -7757479301605308539
+    second: Megaman-X5-SpriteSheet_488
+  - first:
+      213: 6025497345663186497
+    second: Megaman-X5-SpriteSheet_490
+  - first:
+      213: 7752315035465595282
+    second: Megaman-X5-SpriteSheet_491
+  - first:
+      213: 1046113075504034863
+    second: Megaman-X5-SpriteSheet_492
+  - first:
+      213: 3921245669138431291
+    second: Megaman-X5-SpriteSheet_493
+  - first:
+      213: 4222129949388321314
+    second: Megaman-X5-SpriteSheet_494
+  - first:
+      213: 3732440870195899827
+    second: Megaman-X5-SpriteSheet_495
+  - first:
+      213: 5937852546238475572
+    second: Megaman-X5-SpriteSheet_496
+  - first:
+      213: 1800018932672048780
+    second: Megaman-X5-SpriteSheet_497
+  - first:
+      213: -7125124246703464662
+    second: Megaman-X5-SpriteSheet_499
+  - first:
+      213: 1939340341718735554
+    second: Megaman-X5-SpriteSheet_500
+  - first:
+      213: -7325461731302699241
+    second: Megaman-X5-SpriteSheet_501
+  - first:
+      213: 3617876412373400973
+    second: Megaman-X5-SpriteSheet_502
+  - first:
+      213: -6402664068924592585
+    second: Megaman-X5-SpriteSheet_504
+  - first:
+      213: 5310494417014846026
+    second: Megaman-X5-SpriteSheet_505
+  - first:
+      213: -4361399319770464808
+    second: Megaman-X5-SpriteSheet_506
+  - first:
+      213: -7844834569024930034
+    second: Megaman-X5-SpriteSheet_508
+  - first:
+      213: -1461507140711698939
+    second: Megaman-X5-SpriteSheet_509
+  - first:
+      213: -2763673718972413200
+    second: Megaman-X5-SpriteSheet_511
+  - first:
+      213: 1176048464945299723
+    second: Megaman-X5-SpriteSheet_512
+  - first:
+      213: 4995255959001527903
+    second: Megaman-X5-SpriteSheet_514
+  - first:
+      213: 2869162631163710048
+    second: Megaman-X5-SpriteSheet_515
+  - first:
+      213: -226077698116776774
+    second: Megaman-X5-SpriteSheet_516
+  - first:
+      213: 8915256526494059898
+    second: Megaman-X5-SpriteSheet_518
+  - first:
+      213: 7369946045289120918
+    second: Megaman-X5-SpriteSheet_519
+  - first:
+      213: 3560383024266304723
+    second: Megaman-X5-SpriteSheet_523
+  - first:
+      213: -9045064181749433034
+    second: Megaman-X5-SpriteSheet_524
+  - first:
+      213: -1388306433829278557
+    second: Megaman-X5-SpriteSheet_525
+  - first:
+      213: -6102752740010593446
+    second: Megaman-X5-SpriteSheet_528
+  - first:
+      213: -3639676501122773433
+    second: Megaman-X5-SpriteSheet_537
+  - first:
+      213: -5208214066285356002
+    second: Megaman-X5-SpriteSheet_539
+  - first:
+      213: -7442724772443795480
+    second: Megaman-X5-SpriteSheet_540
+  - first:
+      213: 6502224145449287899
+    second: Megaman-X5-SpriteSheet_542
+  - first:
+      213: -2874686961867607530
+    second: Megaman-X5-SpriteSheet_544
+  - first:
+      213: 2726598843771332361
+    second: Megaman-X5-SpriteSheet_545
+  - first:
+      213: 9147339128532095435
+    second: Megaman-X5-SpriteSheet_557
+  - first:
+      213: 5283786991183889279
+    second: Megaman-X5-SpriteSheet_558
+  - first:
+      213: 1727802115086280330
+    second: Megaman-X5-SpriteSheet_559
+  - first:
+      213: 1974739949857256767
+    second: Megaman-X5-SpriteSheet_560
+  - first:
+      213: -1899449158316864179
+    second: Megaman-X5-SpriteSheet_561
+  - first:
+      213: -2591798641482077929
+    second: Megaman-X5-SpriteSheet_562
+  - first:
+      213: -585422186016660699
+    second: Megaman-X5-SpriteSheet_563
+  - first:
+      213: -5595500985707715472
+    second: Megaman-X5-SpriteSheet_564
+  - first:
+      213: 5124082233287398836
+    second: Megaman-X5-SpriteSheet_565
+  - first:
+      213: 8330368031256422344
+    second: Megaman-X5-SpriteSheet_566
+  - first:
+      213: 6861034916237684546
+    second: Megaman-X5-SpriteSheet_567
+  - first:
+      213: -7298466841080535383
+    second: Megaman-X5-SpriteSheet_568
+  - first:
+      213: 40927831879955255
+    second: Megaman-X5-SpriteSheet_569
+  - first:
+      213: -8513502232316162866
+    second: Megaman-X5-SpriteSheet_570
+  - first:
+      213: 2323574582297870888
+    second: Megaman-X5-SpriteSheet_571
+  - first:
+      213: 3712215043627757983
+    second: Megaman-X5-SpriteSheet_572
+  - first:
+      213: -8743984749899853631
+    second: Megaman-X5-SpriteSheet_573
+  - first:
+      213: -624401912822148408
+    second: Megaman-X5-SpriteSheet_574
+  - first:
+      213: 1171217951127581434
+    second: Megaman-X5-SpriteSheet_575
+  - first:
+      213: 8411505623057590973
+    second: Megaman-X5-SpriteSheet_576
+  - first:
+      213: -1612225823282889925
+    second: Megaman-X5-SpriteSheet_577
+  - first:
+      213: 4133336825583417356
+    second: Megaman-X5-SpriteSheet_578
+  - first:
+      213: -5340121139835214844
+    second: Megaman-X5-SpriteSheet_579
+  - first:
+      213: 5492719797546461019
+    second: Megaman-X5-SpriteSheet_580
+  - first:
+      213: -1553784486376296765
+    second: Megaman-X5-SpriteSheet_581
+  - first:
+      213: -4090943029946370759
+    second: Megaman-X5-SpriteSheet_582
+  - first:
+      213: 4987685868458688707
+    second: Megaman-X5-SpriteSheet_583
+  - first:
+      213: 7298318691476086262
+    second: Megaman-X5-SpriteSheet_584
+  - first:
+      213: 8633256322670909352
+    second: Megaman-X5-SpriteSheet_585
+  - first:
+      213: 1481309827850170267
+    second: Megaman-X5-SpriteSheet_586
+  - first:
+      213: 4404492577493359537
+    second: Megaman-X5-SpriteSheet_587
+  - first:
+      213: 6832921676213907948
+    second: Megaman-X5-SpriteSheet_588
+  - first:
+      213: -2585651284585700726
+    second: Megaman-X5-SpriteSheet_589
+  - first:
+      213: -8600792479046436241
+    second: Megaman-X5-SpriteSheet_590
+  - first:
+      213: 6733725997900696709
+    second: Megaman-X5-SpriteSheet_591
+  - first:
+      213: 1822446853076363957
+    second: Megaman-X5-SpriteSheet_592
+  - first:
+      213: -2035708182617613
+    second: Megaman-X5-SpriteSheet_593
+  - first:
+      213: -5144039829494757155
+    second: Megaman-X5-SpriteSheet_594
+  - first:
+      213: -5675022270742542627
+    second: Megaman-X5-SpriteSheet_595
+  - first:
+      213: -4843470890825803477
+    second: Megaman-X5-SpriteSheet_596
+  - first:
+      213: 6157531750498649736
+    second: Megaman-X5-SpriteSheet_597
+  - first:
+      213: -2230192412476685595
+    second: Megaman-X5-SpriteSheet_598
+  - first:
+      213: 7645697963568052268
+    second: Megaman-X5-SpriteSheet_599
+  - first:
+      213: 5764394630559804042
+    second: Megaman-X5-SpriteSheet_601
+  - first:
+      213: -6178008621019668226
+    second: Megaman-X5-SpriteSheet_602
+  - first:
+      213: -8006177210236493380
+    second: Megaman-X5-SpriteSheet_603
+  - first:
+      213: -1740820202354429274
+    second: Megaman-X5-SpriteSheet_604
+  - first:
+      213: 1494136805088640168
+    second: Megaman-X5-SpriteSheet_605
+  - first:
+      213: -2607488214538011761
+    second: Megaman-X5-SpriteSheet_606
+  - first:
+      213: -5765022731731127612
+    second: Megaman-X5-SpriteSheet_607
+  - first:
+      213: 2165474416291146642
+    second: Megaman-X5-SpriteSheet_608
+  - first:
+      213: 7877992209559615133
+    second: Megaman-X5-SpriteSheet_609
+  - first:
+      213: -7742047430767077138
+    second: Megaman-X5-SpriteSheet_610
+  - first:
+      213: 8951003241638909473
+    second: Megaman-X5-SpriteSheet_611
+  - first:
+      213: 3644516665120997663
+    second: Megaman-X5-SpriteSheet_612
+  - first:
+      213: -569858473183677758
+    second: Megaman-X5-SpriteSheet_615
+  - first:
+      213: 1962690190399285412
+    second: Megaman-X5-SpriteSheet_616
+  - first:
+      213: 7780749183125291764
+    second: Megaman-X5-SpriteSheet_617
+  - first:
+      213: -6985472977521243492
+    second: Megaman-X5-SpriteSheet_618
+  - first:
+      213: 5226485600618159655
+    second: Megaman-X5-SpriteSheet_619
+  - first:
+      213: 2325118286309393782
+    second: Megaman-X5-SpriteSheet_620
+  - first:
+      213: 3191724707624216502
+    second: Megaman-X5-SpriteSheet_621
+  - first:
+      213: 8537683792383612680
+    second: Megaman-X5-SpriteSheet_622
+  - first:
+      213: 7605019450861868887
+    second: Megaman-X5-SpriteSheet_623
+  - first:
+      213: 2481783663957370273
+    second: Megaman-X5-SpriteSheet_624
+  - first:
+      213: -8204406875509783260
+    second: Megaman-X5-SpriteSheet_625
+  - first:
+      213: -6684245165693998970
+    second: Megaman-X5-SpriteSheet_626
+  - first:
+      213: -4905158372559006029
+    second: Megaman-X5-SpriteSheet_627
+  - first:
+      213: 5231047032559027055
+    second: Megaman-X5-SpriteSheet_629
+  - first:
+      213: 2396439560098971247
+    second: Megaman-X5-SpriteSheet_630
+  - first:
+      213: 3922312363637810683
+    second: Megaman-X5-SpriteSheet_631
+  - first:
+      213: -6650332826650542083
+    second: Megaman-X5-SpriteSheet_632
+  - first:
+      213: 1653222651011971570
+    second: Megaman-X5-SpriteSheet_633
+  - first:
+      213: -1683969859148744761
+    second: Megaman-X5-SpriteSheet_634
+  - first:
+      213: -6441871442089166957
+    second: Megaman-X5-SpriteSheet_635
+  - first:
+      213: -131984756758626411
+    second: Megaman-X5-SpriteSheet_636
+  - first:
+      213: 438609860547735196
+    second: Megaman-X5-SpriteSheet_637
+  - first:
+      213: -296881954437810987
+    second: Megaman-X5-SpriteSheet_638
+  - first:
+      213: -3860591538792148725
+    second: Megaman-X5-SpriteSheet_639
+  - first:
+      213: -2935184680940674268
+    second: Megaman-X5-SpriteSheet_640
+  - first:
+      213: -7142788641454979375
+    second: Megaman-X5-SpriteSheet_641
+  - first:
+      213: -4004769778206828115
+    second: Megaman-X5-SpriteSheet_642
+  - first:
+      213: 1831183165619753997
+    second: Megaman-X5-SpriteSheet_643
+  - first:
+      213: -2383588785196346053
+    second: Megaman-X5-SpriteSheet_644
+  - first:
+      213: 4839026331075967106
+    second: Megaman-X5-SpriteSheet_645
+  - first:
+      213: -4558117003886573244
+    second: Megaman-X5-SpriteSheet_646
+  - first:
+      213: -5967787246236128633
+    second: Megaman-X5-SpriteSheet_647
+  - first:
+      213: 8452443471300234659
+    second: Megaman-X5-SpriteSheet_648
+  - first:
+      213: 6975285216576381561
+    second: Megaman-X5-SpriteSheet_649
+  - first:
+      213: -7560283397885526636
+    second: Megaman-X5-SpriteSheet_650
+  - first:
+      213: 7248089482797453054
+    second: Megaman-X5-SpriteSheet_655
+  - first:
+      213: 799670674352335862
+    second: Megaman-X5-SpriteSheet_656
+  - first:
+      213: -9080408362700634596
+    second: Megaman-X5-SpriteSheet_657
+  - first:
+      213: 5759007088685665486
+    second: Megaman-X5-SpriteSheet_658
+  - first:
+      213: -3307362636514104185
+    second: Megaman-X5-SpriteSheet_659
+  - first:
+      213: -4240357792099789786
+    second: Megaman-X5-SpriteSheet_660
+  - first:
+      213: 1586563808891385722
+    second: Megaman-X5-SpriteSheet_661
+  - first:
+      213: 2054584081318521182
+    second: Megaman-X5-SpriteSheet_662
+  - first:
+      213: -3385781336839253641
+    second: Megaman-X5-SpriteSheet_663
+  - first:
+      213: 81757475024149662
+    second: Megaman-X5-SpriteSheet_664
+  - first:
+      213: -8899471674742686336
+    second: Megaman-X5-SpriteSheet_665
+  - first:
+      213: 1816699177716923484
+    second: Megaman-X5-SpriteSheet_666
+  - first:
+      213: -6836505521667633580
+    second: Megaman-X5-SpriteSheet_667
+  - first:
+      213: 1174529413385693766
+    second: Megaman-X5-SpriteSheet_668
+  - first:
+      213: -834656453708454420
+    second: Megaman-X5-SpriteSheet_669
+  - first:
+      213: 5868581309425849327
+    second: Megaman-X5-SpriteSheet_670
+  - first:
+      213: 3654554696016732103
+    second: Megaman-X5-SpriteSheet_671
+  - first:
+      213: -2083329360771555401
+    second: Megaman-X5-SpriteSheet_672
+  - first:
+      213: 1553259407333198842
+    second: Megaman-X5-SpriteSheet_674
+  - first:
+      213: -8025402606356381507
+    second: Megaman-X5-SpriteSheet_675
+  - first:
+      213: -2449890329612819926
+    second: Megaman-X5-SpriteSheet_676
+  - first:
+      213: -9005106993519556852
+    second: Megaman-X5-SpriteSheet_677
+  - first:
+      213: -6612844411768997150
+    second: Megaman-X5-SpriteSheet_678
+  - first:
+      213: 6730196481721518874
+    second: Megaman-X5-SpriteSheet_679
+  - first:
+      213: 8606879816322508547
+    second: Megaman-X5-SpriteSheet_680
+  - first:
+      213: -4346243567401891168
+    second: Megaman-X5-SpriteSheet_681
+  - first:
+      213: -6179851500481959161
+    second: Megaman-X5-SpriteSheet_682
+  - first:
+      213: 6904307368218661102
+    second: Megaman-X5-SpriteSheet_683
+  - first:
+      213: 5622920185475274375
+    second: Megaman-X5-SpriteSheet_684
+  - first:
+      213: -1475459918660880432
+    second: Megaman-X5-SpriteSheet_685
+  - first:
+      213: 5743802999200191736
+    second: Megaman-X5-SpriteSheet_686
+  - first:
+      213: -974363035415598113
+    second: Megaman-X5-SpriteSheet_687
+  - first:
+      213: -8416207032048285376
+    second: Megaman-X5-SpriteSheet_688
+  - first:
+      213: 1506938513326357611
+    second: Megaman-X5-SpriteSheet_689
+  - first:
+      213: -6830832431867086172
+    second: Megaman-X5-SpriteSheet_690
+  - first:
+      213: -3573356300911959438
+    second: Megaman-X5-SpriteSheet_691
+  - first:
+      213: -5319157799433974306
+    second: Megaman-X5-SpriteSheet_692
+  - first:
+      213: 6062764424411293629
+    second: Megaman-X5-SpriteSheet_693
+  - first:
+      213: 2440244447313746035
+    second: Megaman-X5-SpriteSheet_694
+  - first:
+      213: -7122074230217886225
+    second: Megaman-X5-SpriteSheet_695
+  - first:
+      213: -8999127910178151470
+    second: Megaman-X5-SpriteSheet_696
+  - first:
+      213: 5051793853531589982
+    second: Megaman-X5-SpriteSheet_697
+  - first:
+      213: 4714116643553765780
+    second: Megaman-X5-SpriteSheet_698
+  - first:
+      213: 7783637917532132400
+    second: Megaman-X5-SpriteSheet_699
+  - first:
+      213: 7067013365930256543
+    second: Megaman-X5-SpriteSheet_710
+  - first:
+      213: 684528906232555023
+    second: Megaman-X5-SpriteSheet_715
+  - first:
+      213: -3057074292188614161
+    second: Megaman-X5-SpriteSheet_716
+  - first:
+      213: 73702840197312080
+    second: Megaman-X5-SpriteSheet_717
+  - first:
+      213: 9216231837004876781
+    second: Megaman-X5-SpriteSheet_718
+  - first:
+      213: -4504181871575637247
+    second: Megaman-X5-SpriteSheet_719
+  - first:
+      213: 2514503046274008319
+    second: Megaman-X5-SpriteSheet_720
+  - first:
+      213: -1916149087409160772
+    second: Megaman-X5-SpriteSheet_721
+  - first:
+      213: -3142567956748269001
+    second: Megaman-X5-SpriteSheet_722
+  - first:
+      213: 5205998358908734643
+    second: Megaman-X5-SpriteSheet_723
+  - first:
+      213: 4460613723471312873
+    second: Megaman-X5-SpriteSheet_724
+  - first:
+      213: -3437642127073480758
+    second: Megaman-X5-SpriteSheet_725
+  - first:
+      213: -4021812111385386400
+    second: Megaman-X5-SpriteSheet_726
+  - first:
+      213: 1975054471144409640
+    second: Megaman-X5-SpriteSheet_727
+  - first:
+      213: -792481077659504611
+    second: Megaman-X5-SpriteSheet_728
+  - first:
+      213: 6771452519629554241
+    second: Megaman-X5-SpriteSheet_729
+  - first:
+      213: -8401094432154677688
+    second: Megaman-X5-SpriteSheet_730
+  - first:
+      213: -4099560131859634685
+    second: Megaman-X5-SpriteSheet_731
+  - first:
+      213: 3589582640203456252
+    second: Megaman-X5-SpriteSheet_732
+  - first:
+      213: -1867479683699234987
+    second: Megaman-X5-SpriteSheet_733
+  - first:
+      213: -8367794118687289502
+    second: Megaman-X5-SpriteSheet_734
+  - first:
+      213: -2876016700432948751
+    second: Megaman-X5-SpriteSheet_735
+  - first:
+      213: -2738510352480835131
+    second: Megaman-X5-SpriteSheet_736
+  - first:
+      213: 4858632271070400530
+    second: Megaman-X5-SpriteSheet_737
+  - first:
+      213: -3551494659092525220
+    second: Megaman-X5-SpriteSheet_738
+  - first:
+      213: -656678117868317942
+    second: Megaman-X5-SpriteSheet_739
+  - first:
+      213: 8667263448177416723
+    second: Megaman-X5-SpriteSheet_740
+  - first:
+      213: -1853519427038291218
+    second: Megaman-X5-SpriteSheet_741
+  - first:
+      213: 4421297499909451071
+    second: Megaman-X5-SpriteSheet_742
+  - first:
+      213: 6117822268316177382
+    second: Megaman-X5-SpriteSheet_743
+  - first:
+      213: 8275682576641653780
+    second: Megaman-X5-SpriteSheet_744
+  - first:
+      213: 6563257385954808685
+    second: Megaman-X5-SpriteSheet_745
+  - first:
+      213: 3160137323174249104
+    second: Megaman-X5-SpriteSheet_746
+  - first:
+      213: 7820206145082700523
+    second: Megaman-X5-SpriteSheet_747
+  - first:
+      213: -1397559059607569281
+    second: Megaman-X5-SpriteSheet_748
+  - first:
+      213: 4622857784798004881
+    second: Megaman-X5-SpriteSheet_749
+  - first:
+      213: -2041432118118226160
+    second: Megaman-X5-SpriteSheet_750
+  - first:
+      213: 4272177576097874936
+    second: Megaman-X5-SpriteSheet_751
+  - first:
+      213: 2811541363187611138
+    second: Megaman-X5-SpriteSheet_752
+  - first:
+      213: -7841611079055103318
+    second: Megaman-X5-SpriteSheet_753
+  - first:
+      213: 5461119252465624498
+    second: Megaman-X5-SpriteSheet_754
+  - first:
+      213: 3868755025960766890
+    second: Megaman-X5-SpriteSheet_755
+  - first:
+      213: 2208116337232504361
+    second: Megaman-X5-SpriteSheet_756
+  - first:
+      213: 8934164526992825470
+    second: Megaman-X5-SpriteSheet_757
+  - first:
+      213: 5744223168446395154
+    second: Megaman-X5-SpriteSheet_758
+  - first:
+      213: -6700040461745779937
+    second: Megaman-X5-SpriteSheet_759
+  - first:
+      213: -1285057222729473470
+    second: Megaman-X5-SpriteSheet_760
+  - first:
+      213: -5274197431527805771
+    second: Megaman-X5-SpriteSheet_761
+  - first:
+      213: 4256763827684019441
+    second: Megaman-X5-SpriteSheet_762
+  - first:
+      213: -7086677671249813500
+    second: Megaman-X5-SpriteSheet_763
+  - first:
+      213: -3602064907726581863
+    second: Megaman-X5-SpriteSheet_764
+  - first:
+      213: -4074795446197033215
+    second: Megaman-X5-SpriteSheet_765
+  - first:
+      213: 2267988265435033911
+    second: Megaman-X5-SpriteSheet_766
+  - first:
+      213: -8773056509379746124
+    second: Megaman-X5-SpriteSheet_768
+  - first:
+      213: 7361936606900815891
+    second: Megaman-X5-SpriteSheet_769
+  - first:
+      213: -3437757888218279828
+    second: Megaman-X5-SpriteSheet_770
+  - first:
+      213: -3562917070015785348
+    second: Megaman-X5-SpriteSheet_771
+  - first:
+      213: 3998262977606855521
+    second: Megaman-X5-SpriteSheet_772
+  - first:
+      213: -3770365173336926699
+    second: Megaman-X5-SpriteSheet_773
+  - first:
+      213: 1515523645609410641
+    second: Megaman-X5-SpriteSheet_774
+  - first:
+      213: 6858374649418060151
+    second: Megaman-X5-SpriteSheet_775
+  - first:
+      213: -7733210509282365329
+    second: Megaman-X5-SpriteSheet_776
+  - first:
+      213: 2834418301606424116
+    second: Megaman-X5-SpriteSheet_777
+  - first:
+      213: 6707627944107683256
+    second: Megaman-X5-SpriteSheet_778
+  - first:
+      213: -36261608528962098
+    second: Megaman-X5-SpriteSheet_779
+  - first:
+      213: -9003840833165033674
+    second: Megaman-X5-SpriteSheet_780
+  - first:
+      213: 5915860525912504176
+    second: Megaman-X5-SpriteSheet_781
+  - first:
+      213: 4237560450277210941
+    second: Megaman-X5-SpriteSheet_782
+  - first:
+      213: -8699103619754946034
+    second: Megaman-X5-SpriteSheet_783
+  - first:
+      213: -1839423117838200424
+    second: Megaman-X5-SpriteSheet_784
+  - first:
+      213: 5053566714787396181
+    second: Megaman-X5-SpriteSheet_785
+  - first:
+      213: -5400603178018802382
+    second: Megaman-X5-SpriteSheet_786
+  - first:
+      213: 982390532290043704
+    second: Megaman-X5-SpriteSheet_787
+  - first:
+      213: -7915555147167372130
+    second: Megaman-X5-SpriteSheet_788
+  - first:
+      213: -5561886065126715837
+    second: Megaman-X5-SpriteSheet_789
+  - first:
+      213: 5847114049699048122
+    second: Megaman-X5-SpriteSheet_793
+  - first:
+      213: 1496830954778958891
+    second: Megaman-X5-SpriteSheet_794
+  - first:
+      213: 3264239797698391541
+    second: Megaman-X5-SpriteSheet_795
+  - first:
+      213: -3787855876475187149
+    second: Megaman-X5-SpriteSheet_803
+  - first:
+      213: -6822815364810542633
+    second: Megaman-X5-SpriteSheet_804
+  - first:
+      213: -1417344429729017735
+    second: Megaman-X5-SpriteSheet_805
+  - first:
+      213: 4740865389954165595
+    second: Megaman-X5-SpriteSheet_806
+  - first:
+      213: 2225313408087163485
+    second: Megaman-X5-SpriteSheet_807
+  - first:
+      213: 931660842485288530
+    second: Megaman-X5-SpriteSheet_808
+  - first:
+      213: -6395551159022517773
+    second: Megaman-X5-SpriteSheet_809
+  - first:
+      213: -630703465757042152
+    second: Megaman-X5-SpriteSheet_810
+  - first:
+      213: 7966723159697278432
+    second: Megaman-X5-SpriteSheet_812
+  - first:
+      213: 1782868310883463107
+    second: Megaman-X5-SpriteSheet_813
+  - first:
+      213: -1807882917249987291
+    second: Megaman-X5-SpriteSheet_814
+  - first:
+      213: 8311086744789196786
+    second: Megaman-X5-SpriteSheet_815
+  - first:
+      213: -1800702650141658901
+    second: Megaman-X5-SpriteSheet_816
+  - first:
+      213: -4097308072780915766
+    second: Megaman-X5-SpriteSheet_817
+  - first:
+      213: -3894395985166919570
+    second: Megaman-X5-SpriteSheet_818
+  - first:
+      213: 2427725869983100491
+    second: Megaman-X5-SpriteSheet_819
+  - first:
+      213: 850095574596894849
+    second: Megaman-X5-SpriteSheet_820
+  - first:
+      213: 6980172680168682246
+    second: Megaman-X5-SpriteSheet_823
+  - first:
+      213: 3258966260435345547
+    second: Megaman-X5-SpriteSheet_824
+  - first:
+      213: 7940333436280590736
+    second: Megaman-X5-SpriteSheet_825
+  - first:
+      213: 1711141246707313796
+    second: Megaman-X5-SpriteSheet_826
+  - first:
+      213: 3046992265409480616
+    second: Megaman-X5-SpriteSheet_827
+  - first:
+      213: -5080729862569048425
+    second: Megaman-X5-SpriteSheet_828
+  - first:
+      213: -3696849504218827689
+    second: Megaman-X5-SpriteSheet_832
+  - first:
+      213: 8328461953944964380
+    second: Megaman-X5-SpriteSheet_839
+  - first:
+      213: -7180826782080453442
+    second: Megaman-X5-SpriteSheet_840
+  - first:
+      213: -6158961254553784967
+    second: Megaman-X5-SpriteSheet_841
+  - first:
+      213: 7197687790531196214
+    second: Megaman-X5-SpriteSheet_842
+  - first:
+      213: -8380356474609222655
+    second: Megaman-X5-SpriteSheet_843
+  - first:
+      213: 7505875780864649441
+    second: Megaman-X5-SpriteSheet_844
+  - first:
+      213: -1536850391935496282
+    second: Megaman-X5-SpriteSheet_845
+  - first:
+      213: 8741045412514066505
+    second: Megaman-X5-SpriteSheet_848
+  - first:
+      213: -205772002731699644
+    second: Megaman-X5-SpriteSheet_849
+  - first:
+      213: -59042883606353193
+    second: Megaman-X5-SpriteSheet_850
+  - first:
+      213: 8453515920704049699
+    second: Megaman-X5-SpriteSheet_852
+  - first:
+      213: 8070104998976526669
+    second: Megaman-X5-SpriteSheet_853
+  - first:
+      213: -3472731986142875663
+    second: Megaman-X5-SpriteSheet_854
+  - first:
+      213: -3987657465010267257
+    second: Megaman-X5-SpriteSheet_865
+  - first:
+      213: 6221242719517007866
+    second: Megaman-X5-SpriteSheet_866
+  - first:
+      213: 585923567313783616
+    second: Megaman-X5-SpriteSheet_867
+  - first:
+      213: 8643543596244786894
+    second: Megaman-X5-SpriteSheet_868
+  - first:
+      213: -4945068704761389010
+    second: Megaman-X5-SpriteSheet_869
+  - first:
+      213: 4922239365986967083
+    second: Megaman-X5-SpriteSheet_870
+  - first:
+      213: 4694846963186878989
+    second: Megaman-X5-SpriteSheet_871
+  - first:
+      213: -3134093857371531394
+    second: Megaman-X5-SpriteSheet_872
+  - first:
+      213: -8939398545184991227
+    second: Megaman-X5-SpriteSheet_873
+  - first:
+      213: 2201308650922769186
+    second: Megaman-X5-SpriteSheet_874
+  - first:
+      213: 5496493243894567337
+    second: Megaman-X5-SpriteSheet_875
+  - first:
+      213: 4474411713054132947
+    second: Megaman-X5-SpriteSheet_876
+  - first:
+      213: -94455196367202276
+    second: Megaman-X5-SpriteSheet_877
+  - first:
+      213: 4962861279394572909
+    second: Megaman-X5-SpriteSheet_878
+  - first:
+      213: -9131088282539140386
+    second: Megaman-X5-SpriteSheet_879
+  - first:
+      213: -2645084975317918253
+    second: Megaman-X5-SpriteSheet_881
+  - first:
+      213: 7811716353362849598
+    second: Megaman-X5-SpriteSheet_882
+  - first:
+      213: -5274832740171676488
+    second: Megaman-X5-SpriteSheet_883
+  - first:
+      213: -860581619003904383
+    second: Megaman-X5-SpriteSheet_884
+  - first:
+      213: -5607348949941825249
+    second: Megaman-X5-SpriteSheet_885
+  - first:
+      213: -2472964153556826838
+    second: Megaman-X5-SpriteSheet_886
+  - first:
+      213: 7825943261596273574
+    second: Megaman-X5-SpriteSheet_887
+  - first:
+      213: -3157584225462140505
+    second: Megaman-X5-SpriteSheet_888
+  - first:
+      213: 4489778743600787329
+    second: Megaman-X5-SpriteSheet_889
+  - first:
+      213: 6186069158867806861
+    second: Megaman-X5-SpriteSheet_890
+  - first:
+      213: 383686157148485596
+    second: Megaman-X5-SpriteSheet_891
+  - first:
+      213: -6842134770514398146
+    second: Megaman-X5-SpriteSheet_892
+  - first:
+      213: -6045115810268469144
+    second: Megaman-X5-SpriteSheet_893
+  - first:
+      213: -7320291382361338457
+    second: Megaman-X5-SpriteSheet_894
+  - first:
+      213: 6851102980850297647
+    second: Megaman-X5-SpriteSheet_895
+  - first:
+      213: 5515976729701282512
+    second: Megaman-X5-SpriteSheet_896
+  - first:
+      213: 2175380615279187537
+    second: Megaman-X5-SpriteSheet_897
+  - first:
+      213: 1722569244526517829
+    second: Megaman-X5-SpriteSheet_898
+  - first:
+      213: -296737890826984105
+    second: Megaman-X5-SpriteSheet_899
+  - first:
+      213: -9110182156401909223
+    second: Megaman-X5-SpriteSheet_900
+  - first:
+      213: 8579765782497437664
+    second: Megaman-X5-SpriteSheet_901
+  - first:
+      213: 8357375216621547119
+    second: Megaman-X5-SpriteSheet_902
+  - first:
+      213: -6794237545615391184
+    second: Megaman-X5-SpriteSheet_903
+  - first:
+      213: 7771622928273932338
+    second: Megaman-X5-SpriteSheet_904
+  - first:
+      213: -8510925910209930980
+    second: Megaman-X5-SpriteSheet_905
+  - first:
+      213: 3138381478151842643
+    second: Megaman-X5-SpriteSheet_906
+  - first:
+      213: -3460020925580771758
+    second: Megaman-X5-SpriteSheet_907
+  - first:
+      213: 5422898334181346111
+    second: Megaman-X5-SpriteSheet_908
+  - first:
+      213: 5461325136912444153
+    second: Megaman-X5-SpriteSheet_909
+  - first:
+      213: -1699730477997514242
+    second: Megaman-X5-SpriteSheet_910
+  - first:
+      213: -3754506047494824625
+    second: Megaman-X5-SpriteSheet_911
+  - first:
+      213: 8579089402475417059
+    second: Megaman-X5-SpriteSheet_912
+  - first:
+      213: -4267614424157155091
+    second: Megaman-X5-SpriteSheet_913
+  - first:
+      213: -4816926504837541882
+    second: Megaman-X5-SpriteSheet_914
+  - first:
+      213: -5420568138198875751
+    second: Megaman-X5-SpriteSheet_915
+  - first:
+      213: -3589276891535879126
+    second: Megaman-X5-SpriteSheet_916
+  - first:
+      213: -6507093958162366197
+    second: Megaman-X5-SpriteSheet_917
+  - first:
+      213: -459494143003422219
+    second: Megaman-X5-SpriteSheet_918
+  - first:
+      213: 8856473905038134620
+    second: Megaman-X5-SpriteSheet_919
+  - first:
+      213: 6112647750837942594
+    second: Megaman-X5-SpriteSheet_920
+  - first:
+      213: 2742850821486965273
+    second: Megaman-X5-SpriteSheet_921
+  - first:
+      213: -6395100715121196358
+    second: Megaman-X5-SpriteSheet_922
+  - first:
+      213: 3896447455341827459
+    second: Megaman-X5-SpriteSheet_923
+  - first:
+      213: 62148017350941817
+    second: Megaman-X5-SpriteSheet_924
+  - first:
+      213: -6184586654504789323
+    second: Megaman-X5-SpriteSheet_925
+  - first:
+      213: -913685378119339519
+    second: Megaman-X5-SpriteSheet_926
+  - first:
+      213: -1289740663042230359
+    second: Megaman-X5-SpriteSheet_927
+  - first:
+      213: -1658762174464747044
+    second: Megaman-X5-SpriteSheet_928
+  - first:
+      213: -339597843058388566
+    second: Megaman-X5-SpriteSheet_929
+  - first:
+      213: 6912125532317832531
+    second: Megaman-X5-SpriteSheet_930
+  - first:
+      213: 3923100797357723687
+    second: Megaman-X5-SpriteSheet_931
+  - first:
+      213: 6856850203263080045
+    second: Megaman-X5-SpriteSheet_932
+  - first:
+      213: 8960861674999781600
+    second: Megaman-X5-SpriteSheet_933
+  - first:
+      213: 5596942003334565056
+    second: Megaman-X5-SpriteSheet_934
+  - first:
+      213: -1053944373858939123
+    second: Megaman-X5-SpriteSheet_935
+  - first:
+      213: -3171379472905011527
+    second: Megaman-X5-SpriteSheet_936
+  - first:
+      213: 4159294671762494843
+    second: Megaman-X5-SpriteSheet_937
+  - first:
+      213: -4573877205997341092
+    second: Megaman-X5-SpriteSheet_938
+  - first:
+      213: 6226959170290502093
+    second: Megaman-X5-SpriteSheet_939
+  - first:
+      213: 1073573933352007323
+    second: Megaman-X5-SpriteSheet_940
+  - first:
+      213: 8650019087401881385
+    second: Megaman-X5-SpriteSheet_941
+  - first:
+      213: 7459888436082463202
+    second: Megaman-X5-SpriteSheet_942
+  - first:
+      213: -7666802502835947275
+    second: Megaman-X5-SpriteSheet_943
+  - first:
+      213: 5831051254051393279
+    second: Megaman-X5-SpriteSheet_944
+  - first:
+      213: 3998191503021041820
+    second: Megaman-X5-SpriteSheet_945
+  - first:
+      213: 5576993412157746464
+    second: Megaman-X5-SpriteSheet_946
+  - first:
+      213: -3498393377333887742
+    second: Megaman-X5-SpriteSheet_947
+  - first:
+      213: 2706126584231555815
+    second: Megaman-X5-SpriteSheet_948
+  - first:
+      213: -7139493830723043149
+    second: Megaman-X5-SpriteSheet_949
+  - first:
+      213: 7200414521082368825
+    second: Megaman-X5-SpriteSheet_950
+  - first:
+      213: 6609328170695459810
+    second: Megaman-X5-SpriteSheet_951
+  - first:
+      213: -5084299258241406832
+    second: Megaman-X5-SpriteSheet_952
+  - first:
+      213: -4182212842441317612
+    second: Megaman-X5-SpriteSheet_953
+  - first:
+      213: 1084887006221207653
+    second: Megaman-X5-SpriteSheet_954
+  - first:
+      213: -5400838824469126160
+    second: Megaman-X5-SpriteSheet_955
+  - first:
+      213: -2302643358627159912
+    second: Megaman-X5-SpriteSheet_956
+  - first:
+      213: 6161199244745842394
+    second: Megaman-X5-SpriteSheet_957
+  - first:
+      213: -4311075581013852002
+    second: Megaman-X5-SpriteSheet_958
+  - first:
+      213: -5791024493642414206
+    second: Megaman-X5-SpriteSheet_959
+  - first:
+      213: -2486843698656478226
+    second: Megaman-X5-SpriteSheet_960
+  - first:
+      213: 8483497542140129442
+    second: Megaman-X5-SpriteSheet_961
+  - first:
+      213: 2448442001679865378
+    second: Megaman-X5-SpriteSheet_962
+  - first:
+      213: -201609090447025925
+    second: Megaman-X5-SpriteSheet_963
+  - first:
+      213: -5467481530257601455
+    second: Megaman-X5-SpriteSheet_964
+  - first:
+      213: -6509487901218319898
+    second: Megaman-X5-SpriteSheet_965
+  - first:
+      213: -3549313591995767501
+    second: Megaman-X5-SpriteSheet_966
+  - first:
+      213: -4937763913033423363
+    second: Megaman-X5-SpriteSheet_967
+  - first:
+      213: 1066466997802144790
+    second: Megaman-X5-SpriteSheet_968
+  - first:
+      213: 10869380216402591
+    second: Megaman-X5-SpriteSheet_969
+  - first:
+      213: 6154288105851178848
+    second: Megaman-X5-SpriteSheet_970
+  - first:
+      213: 2636610521600103218
+    second: Megaman-X5-SpriteSheet_971
+  - first:
+      213: 5068560819411724222
+    second: Megaman-X5-SpriteSheet_972
+  - first:
+      213: 1691963462577553447
+    second: Megaman-X5-SpriteSheet_973
+  - first:
+      213: 8560057944541272826
+    second: Megaman-X5-SpriteSheet_974
+  - first:
+      213: -331857735612102866
+    second: Megaman-X5-SpriteSheet_975
+  - first:
+      213: 3298352585402945089
+    second: Megaman-X5-SpriteSheet_976
+  - first:
+      213: -2486110026946791836
+    second: Megaman-X5-SpriteSheet_977
+  - first:
+      213: 9132399319075751264
+    second: Megaman-X5-SpriteSheet_978
+  - first:
+      213: -5539761472359723765
+    second: Megaman-X5-SpriteSheet_979
+  - first:
+      213: 7216834788686622043
+    second: Megaman-X5-SpriteSheet_980
+  - first:
+      213: -8388548343627512918
+    second: Megaman-X5-SpriteSheet_981
+  - first:
+      213: -4570295493896861557
+    second: Megaman-X5-SpriteSheet_982
+  - first:
+      213: -8994635240391508741
+    second: Megaman-X5-SpriteSheet_983
+  - first:
+      213: 6337813179680619161
+    second: Megaman-X5-SpriteSheet_984
+  - first:
+      213: 1886717828259604480
+    second: Megaman-X5-SpriteSheet_985
+  - first:
+      213: -8205676903669032325
+    second: Megaman-X5-SpriteSheet_986
+  - first:
+      213: -5106531728299766128
+    second: Megaman-X5-SpriteSheet_987
+  - first:
+      213: 5502006286107366285
+    second: Megaman-X5-SpriteSheet_988
+  - first:
+      213: -9127904990362287012
+    second: Megaman-X5-SpriteSheet_989
+  - first:
+      213: 2690923698211645054
+    second: Megaman-X5-SpriteSheet_990
+  - first:
+      213: 7663163945608568297
+    second: Megaman-X5-SpriteSheet_991
+  - first:
+      213: -1756698663608183296
+    second: Megaman-X5-SpriteSheet_992
+  - first:
+      213: 6706180095331434061
+    second: Megaman-X5-SpriteSheet_993
+  - first:
+      213: -821208054514774399
+    second: Megaman-X5-SpriteSheet_994
+  - first:
+      213: 2862188193398677991
+    second: Megaman-X5-SpriteSheet_995
+  - first:
+      213: -4667509921659772274
+    second: Megaman-X5-SpriteSheet_996
+  - first:
+      213: -6363543507626836289
+    second: Megaman-X5-SpriteSheet_997
+  - first:
+      213: 4398471870042967008
+    second: Megaman-X5-SpriteSheet_998
+  - first:
+      213: -1654393263223814822
+    second: Megaman-X5-SpriteSheet_999
+  - first:
+      213: -4312898701110539425
+    second: Megaman-X5-SpriteSheet_1000
+  - first:
+      213: 638777720751364395
+    second: Megaman-X5-SpriteSheet_1001
+  - first:
+      213: -1482934071908262375
+    second: Megaman-X5-SpriteSheet_1002
+  - first:
+      213: -4717425238582322965
+    second: Megaman-X5-SpriteSheet_1003
+  - first:
+      213: -5938739339219805596
+    second: Megaman-X5-SpriteSheet_1004
+  - first:
+      213: 7805942284367179957
+    second: Megaman-X5-SpriteSheet_1005
+  - first:
+      213: 1764316163492294257
+    second: Megaman-X5-SpriteSheet_1006
+  - first:
+      213: 5281139479946829457
+    second: Megaman-X5-SpriteSheet_1007
+  - first:
+      213: -7073939236470053369
+    second: Megaman-X5-SpriteSheet_1008
+  - first:
+      213: -4341309082929805620
+    second: Megaman-X5-SpriteSheet_1009
+  - first:
+      213: -8955441158901586467
+    second: Megaman-X5-SpriteSheet_1010
+  - first:
+      213: 6702562450369718882
+    second: Megaman-X5-SpriteSheet_1011
+  - first:
+      213: -1239574949640986779
+    second: Megaman-X5-SpriteSheet_1012
+  - first:
+      213: -6252848994879273645
+    second: Megaman-X5-SpriteSheet_1013
+  - first:
+      213: 2056711058060005718
+    second: Megaman-X5-SpriteSheet_1014
+  - first:
+      213: -7858611912099829479
+    second: Megaman-X5-SpriteSheet_1015
+  - first:
+      213: -5640521347347520686
+    second: Megaman-X5-SpriteSheet_1016
+  - first:
+      213: 7816727841061864893
+    second: Megaman-X5-SpriteSheet_1017
+  - first:
+      213: 2057978510655352053
+    second: Megaman-X5-SpriteSheet_1018
+  - first:
+      213: 3050754716006617032
+    second: Megaman-X5-SpriteSheet_1019
+  - first:
+      213: -4619676504372720117
+    second: Megaman-X5-SpriteSheet_1020
+  - first:
+      213: 2029070766119172133
+    second: Megaman-X5-SpriteSheet_1021
+  - first:
+      213: 5639391718783168674
+    second: Megaman-X5-SpriteSheet_1022
+  - first:
+      213: -8443370481598674556
+    second: Megaman-X5-SpriteSheet_1023
+  - first:
+      213: -1354755552493590223
+    second: Megaman-X5-SpriteSheet_1024
+  - first:
+      213: 97536326386520350
+    second: Megaman-X5-SpriteSheet_1025
+  - first:
+      213: 4751523897551976377
+    second: Megaman-X5-SpriteSheet_1026
+  - first:
+      213: -955998299041817175
+    second: Megaman-X5-SpriteSheet_1027
+  - first:
+      213: -2828441366253347077
+    second: Megaman-X5-SpriteSheet_1028
+  - first:
+      213: -955911147594161266
+    second: Megaman-X5-SpriteSheet_1029
+  - first:
+      213: 2694042356704815066
+    second: Megaman-X5-SpriteSheet_1030
+  - first:
+      213: 7142931714307078509
+    second: Megaman-X5-SpriteSheet_1031
+  - first:
+      213: 3577483868927645725
+    second: Megaman-X5-SpriteSheet_1032
+  - first:
+      213: -2066992314889374639
+    second: Megaman-X5-SpriteSheet_1033
+  - first:
+      213: -8942021142295450653
+    second: Megaman-X5-SpriteSheet_1034
+  - first:
+      213: -344367230041637767
+    second: Megaman-X5-SpriteSheet_1035
+  - first:
+      213: 3197667921955986868
+    second: Megaman-X5-SpriteSheet_1036
+  - first:
+      213: 3277869251820186057
+    second: Megaman-X5-SpriteSheet_1037
+  - first:
+      213: -773368348484196936
+    second: Megaman-X5-SpriteSheet_1038
+  - first:
+      213: -4964127276254285173
+    second: Megaman-X5-SpriteSheet_1039
+  - first:
+      213: -4996792758774783784
+    second: Megaman-X5-SpriteSheet_1040
+  - first:
+      213: 2974441711961566554
+    second: Megaman-X5-SpriteSheet_1041
+  - first:
+      213: 5415630475573148332
+    second: Megaman-X5-SpriteSheet_1042
+  - first:
+      213: 3153876097661819634
+    second: Megaman-X5-SpriteSheet_1043
+  - first:
+      213: 7904638757366398652
+    second: Megaman-X5-SpriteSheet_1044
+  - first:
+      213: -6627940897697858022
+    second: Megaman-X5-SpriteSheet_1045
+  - first:
+      213: 8166840064487177380
+    second: Megaman-X5-SpriteSheet_1046
+  - first:
+      213: 552002459002615969
+    second: Megaman-X5-SpriteSheet_1047
+  - first:
+      213: -5097303839215632013
+    second: Megaman-X5-SpriteSheet_1048
+  - first:
+      213: 1167688126367097272
+    second: Megaman-X5-SpriteSheet_1049
+  - first:
+      213: -6793929570741283642
+    second: Megaman-X5-SpriteSheet_1050
+  - first:
+      213: -5919618707258061335
+    second: Megaman-X5-SpriteSheet_1051
+  - first:
+      213: 3805681402300650013
+    second: Megaman-X5-SpriteSheet_1052
+  - first:
+      213: -3491279884119727562
+    second: Megaman-X5-SpriteSheet_1053
+  - first:
+      213: 6023098277505966934
+    second: Megaman-X5-SpriteSheet_1054
+  - first:
+      213: -6304323815901676961
+    second: Megaman-X5-SpriteSheet_1055
+  - first:
+      213: 5534429019336258036
+    second: Megaman-X5-SpriteSheet_1056
+  - first:
+      213: 6491296087774045139
+    second: Megaman-X5-SpriteSheet_1057
+  - first:
+      213: 1839444351574160243
+    second: Megaman-X5-SpriteSheet_1058
+  - first:
+      213: 4693014631071031812
+    second: Megaman-X5-SpriteSheet_1059
+  - first:
+      213: -3559175118402552553
+    second: Megaman-X5-SpriteSheet_1060
+  - first:
+      213: -664603063388609270
+    second: Megaman-X5-SpriteSheet_1061
+  - first:
+      213: 4297233853588194458
+    second: Megaman-X5-SpriteSheet_1062
+  - first:
+      213: -6020234462721444652
+    second: Megaman-X5-SpriteSheet_1063
+  - first:
+      213: 1303784787330065355
+    second: Megaman-X5-SpriteSheet_1064
+  - first:
+      213: 2425933700394214200
+    second: Megaman-X5-SpriteSheet_1065
+  - first:
+      213: -6389563262722437194
+    second: Megaman-X5-SpriteSheet_1066
+  - first:
+      213: 6969422594948665897
+    second: Megaman-X5-SpriteSheet_1067
+  - first:
+      213: -2363232820854893713
+    second: Megaman-X5-SpriteSheet_1068
+  - first:
+      213: -2708934992600930129
+    second: Megaman-X5-SpriteSheet_1069
+  - first:
+      213: 3658769504502727723
+    second: Megaman-X5-SpriteSheet_1070
+  - first:
+      213: -3379898757053041348
+    second: Megaman-X5-SpriteSheet_1071
+  - first:
+      213: 4373696128149932727
+    second: Megaman-X5-SpriteSheet_1072
+  - first:
+      213: 7543193654983059521
+    second: Megaman-X5-SpriteSheet_1073
+  - first:
+      213: 7166336041889341418
+    second: Megaman-X5-SpriteSheet_1074
+  - first:
+      213: 4610381699897539794
+    second: Megaman-X5-SpriteSheet_1075
+  - first:
+      213: 6053858767303654061
+    second: Megaman-X5-SpriteSheet_1076
+  - first:
+      213: -1670508641709509083
+    second: Megaman-X5-SpriteSheet_1077
+  - first:
+      213: -8621120038434295107
+    second: Megaman-X5-SpriteSheet_1078
+  - first:
+      213: 7893401704000043552
+    second: Megaman-X5-SpriteSheet_1079
+  - first:
+      213: 8385795670491680992
+    second: Megaman-X5-SpriteSheet_1080
+  - first:
+      213: 4041353707546510592
+    second: Megaman-X5-SpriteSheet_1081
+  - first:
+      213: 8513692467284139519
+    second: Megaman-X5-SpriteSheet_1082
+  - first:
+      213: -5743440769412199164
+    second: Megaman-X5-SpriteSheet_1083
+  - first:
+      213: 1860397580776057457
+    second: Megaman-X5-SpriteSheet_1084
+  - first:
+      213: 980796375492831503
+    second: Megaman-X5-SpriteSheet_1085
+  - first:
+      213: 3088045842817445445
+    second: Megaman-X5-SpriteSheet_1086
+  - first:
+      213: -8269905085473126618
+    second: Megaman-X5-SpriteSheet_1087
+  - first:
+      213: 5444119141301335898
+    second: Megaman-X5-SpriteSheet_1088
+  - first:
+      213: 1119590815147350380
+    second: Megaman-X5-SpriteSheet_1089
+  - first:
+      213: 3490629733301569777
+    second: Megaman-X5-SpriteSheet_1090
+  - first:
+      213: -896052418582423004
+    second: Megaman-X5-SpriteSheet_1091
+  - first:
+      213: -1894535418355449670
+    second: Megaman-X5-SpriteSheet_1092
+  - first:
+      213: 4972245752462952447
+    second: Megaman-X5-SpriteSheet_1093
+  - first:
+      213: -2552328850487712174
+    second: Megaman-X5-SpriteSheet_1094
+  - first:
+      213: -4729548113824124536
+    second: Megaman-X5-SpriteSheet_1095
+  - first:
+      213: 1991691894115184448
+    second: Megaman-X5-SpriteSheet_1096
+  - first:
+      213: 2475562575685545654
+    second: Megaman-X5-SpriteSheet_1097
+  - first:
+      213: 7795035686729242293
+    second: Megaman-X5-SpriteSheet_1098
+  - first:
+      213: 8216687105245339187
+    second: Megaman-X5-SpriteSheet_1099
+  - first:
+      213: -9169595633639433260
+    second: Megaman-X5-SpriteSheet_1100
+  - first:
+      213: 4967576733671954612
+    second: Megaman-X5-SpriteSheet_1101
+  - first:
+      213: -3681869684943492354
+    second: Megaman-X5-SpriteSheet_1102
+  - first:
+      213: 3455618140965964290
+    second: Megaman-X5-SpriteSheet_1103
+  - first:
+      213: -935403189536326934
+    second: Megaman-X5-SpriteSheet_1104
+  - first:
+      213: -5624351851810383502
+    second: Megaman-X5-SpriteSheet_1105
+  - first:
+      213: 1082154288437428970
+    second: Megaman-X5-SpriteSheet_1106
+  - first:
+      213: 5988220255224125155
+    second: Megaman-X5-SpriteSheet_1107
+  - first:
+      213: 96644731915107921
+    second: Megaman-X5-SpriteSheet_1108
+  - first:
+      213: 7641962318958266614
+    second: Megaman-X5-SpriteSheet_1109
+  - first:
+      213: 6553009153068868308
+    second: Megaman-X5-SpriteSheet_1110
+  - first:
+      213: 2467679613836472081
+    second: Megaman-X5-SpriteSheet_1111
+  - first:
+      213: 7887797707265974715
+    second: Megaman-X5-SpriteSheet_1112
+  - first:
+      213: 1093810826076340480
+    second: Megaman-X5-SpriteSheet_1113
+  - first:
+      213: 8150467879533728792
+    second: Megaman-X5-SpriteSheet_1114
+  - first:
+      213: -8953251959393968332
+    second: Megaman-X5-SpriteSheet_1115
+  - first:
+      213: 3848518805114921356
+    second: Megaman-X5-SpriteSheet_1116
+  - first:
+      213: -6637460444539034895
+    second: Megaman-X5-SpriteSheet_1117
+  - first:
+      213: -9074635548343806046
+    second: Megaman-X5-SpriteSheet_1118
+  - first:
+      213: -866774859150743724
+    second: Megaman-X5-SpriteSheet_1119
+  - first:
+      213: 1588476592531743098
+    second: Megaman-X5-SpriteSheet_1120
+  - first:
+      213: -326464659735018307
+    second: Megaman-X5-SpriteSheet_1121
+  - first:
+      213: -6504539288705446031
+    second: Megaman-X5-SpriteSheet_1122
+  - first:
+      213: -3952075875868751170
+    second: Megaman-X5-SpriteSheet_1123
+  - first:
+      213: 8586927618510199552
+    second: Megaman-X5-SpriteSheet_1124
+  - first:
+      213: -4235021778515363459
+    second: Megaman-X5-SpriteSheet_1125
+  - first:
+      213: 8421086386715480532
+    second: Megaman-X5-SpriteSheet_1126
+  - first:
+      213: -4496169351346335104
+    second: Megaman-X5-SpriteSheet_1127
+  - first:
+      213: 7949639935362125437
+    second: Megaman-X5-SpriteSheet_1128
+  - first:
+      213: -6278443551311806636
+    second: Megaman-X5-SpriteSheet_1129
+  - first:
+      213: -2052429605068798704
+    second: Megaman-X5-SpriteSheet_1130
+  - first:
+      213: 2641499428269005495
+    second: Megaman-X5-SpriteSheet_1131
+  - first:
+      213: -8229840488973804722
+    second: Megaman-X5-SpriteSheet_1132
+  - first:
+      213: -9161891507150457247
+    second: Megaman-X5-SpriteSheet_1133
+  - first:
+      213: 9126777380373951454
+    second: Megaman-X5-SpriteSheet_1134
+  - first:
+      213: -6958960037587808098
+    second: Megaman-X5-SpriteSheet_1135
+  - first:
+      213: 3914073408056581879
+    second: Megaman-X5-SpriteSheet_1136
+  - first:
+      213: 6407769133506558125
+    second: Megaman-X5-SpriteSheet_1137
+  - first:
+      213: 6348502841738230226
+    second: Megaman-X5-SpriteSheet_1138
+  - first:
+      213: 6458433813271463585
+    second: Megaman-X5-SpriteSheet_1139
+  - first:
+      213: 3521996049092887910
+    second: Megaman-X5-SpriteSheet_1140
+  - first:
+      213: 1255104904338763828
+    second: Megaman-X5-SpriteSheet_1141
+  - first:
+      213: 3820871712927410870
+    second: Megaman-X5-SpriteSheet_1142
+  - first:
+      213: 2507063032993490642
+    second: Megaman-X5-SpriteSheet_1143
+  - first:
+      213: 2311770667838153254
+    second: Megaman-X5-SpriteSheet_1144
+  - first:
+      213: -3607296336837906481
+    second: Megaman-X5-SpriteSheet_1145
+  - first:
+      213: 5219680270700517545
+    second: Megaman-X5-SpriteSheet_1146
+  - first:
+      213: -1769133894057375434
+    second: Megaman-X5-SpriteSheet_1147
+  - first:
+      213: 1015840946161989948
+    second: Megaman-X5-SpriteSheet_1148
+  - first:
+      213: 3853025680850709042
+    second: Megaman-X5-SpriteSheet_1149
+  - first:
+      213: 4097709635711019946
+    second: Megaman-X5-SpriteSheet_1150
+  - first:
+      213: -3743556963160747600
+    second: Megaman-X5-SpriteSheet_1151
+  - first:
+      213: 7623557882467678139
+    second: Megaman-X5-SpriteSheet_1152
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2704,7 +5650,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -2763,12 +5709,12 @@ TextureImporter:
       name: IntroAnim1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 2887
         width: 18
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2806,11 +5752,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 248
-        y: 2870
+        y: 2875
         width: 62
-        height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2830,8 +5776,8 @@ TextureImporter:
         y: 2888
         width: 24
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2851,8 +5797,8 @@ TextureImporter:
         y: 2888
         width: 23
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2872,8 +5818,8 @@ TextureImporter:
         y: 2884
         width: 65
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2914,8 +5860,8 @@ TextureImporter:
         y: 2887
         width: 42
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2935,8 +5881,8 @@ TextureImporter:
         y: 2877
         width: 58
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2956,8 +5902,8 @@ TextureImporter:
         y: 2883
         width: 41
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2977,8 +5923,8 @@ TextureImporter:
         y: 2888
         width: 38
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2998,8 +5944,8 @@ TextureImporter:
         y: 2888
         width: 36
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3019,8 +5965,8 @@ TextureImporter:
         y: 2888
         width: 40
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3096,15 +6042,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_24
+      name: IdleAnimX1
       rect:
         serializedVersion: 2
         x: 0
-        y: 2811
+        y: 2814
         width: 39
-        height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3117,15 +6063,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_25
+      name: IdleAnimX2
       rect:
         serializedVersion: 2
         x: 49
         y: 2812
         width: 39
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3138,15 +6084,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_26
+      name: IdleAnimX3
       rect:
         serializedVersion: 2
         x: 98
-        y: 2812
+        y: 2813
         width: 39
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3159,15 +6105,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_27
+      name: IdleAnimX4
       rect:
         serializedVersion: 2
-        x: 148
-        y: 2812
-        width: 37
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 147
+        y: 2813
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3180,15 +6126,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_28
+      name: IdleAnimX5
       rect:
         serializedVersion: 2
         x: 199
-        y: 2812
-        width: 37
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 2813
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3201,16 +6147,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_29
+      name: IdleAnimX6
       rect:
         serializedVersion: 2
-        x: 244
-        y: 2813
-        width: 43
+        x: 247
+        y: 2814
+        width: 37
         height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 1, w: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -3222,15 +6168,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_30
+      name: IdleAnimX8
       rect:
         serializedVersion: 2
-        x: 346
+        x: 347
         y: 2812
         width: 37
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3243,15 +6189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_31
+      name: IdleAnimX9
       rect:
         serializedVersion: 2
         x: 394
-        y: 2812
+        y: 2813
         width: 39
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3264,15 +6210,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_32
+      name: IdleAnimX10
       rect:
         serializedVersion: 2
         x: 443
         y: 2812
         width: 39
         height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3705,15 +6651,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_53
+      name: WalkAnim0
       rect:
         serializedVersion: 2
         x: 4
-        y: 2676
+        y: 2675
         width: 36
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3726,15 +6672,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_54
+      name: WalkAnim1
       rect:
         serializedVersion: 2
         x: 53
         y: 2676
-        width: 35
+        width: 33
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3747,15 +6693,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_55
+      name: WalkAnim4
       rect:
         serializedVersion: 2
         x: 170
-        y: 2679
-        width: 52
-        height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 2680
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3768,15 +6714,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_56
+      name: WalkAnim5
       rect:
         serializedVersion: 2
         x: 219
-        y: 2672
-        width: 49
-        height: 53
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 2679
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3789,15 +6735,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_57
+      name: WalkAnim8
       rect:
         serializedVersion: 2
         x: 343
         y: 2677
         width: 30
         height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3810,15 +6756,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_58
+      name: WalkAnim9
       rect:
         serializedVersion: 2
         x: 375
         y: 2679
         width: 37
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3831,15 +6777,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_59
+      name: WalkAnim10
       rect:
         serializedVersion: 2
         x: 411
         y: 2677
-        width: 44
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3852,15 +6798,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_60
+      name: WalkAnim11
       rect:
         serializedVersion: 2
         x: 455
         y: 2677
         width: 46
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3873,15 +6819,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_61
+      name: WalkAnim12
       rect:
         serializedVersion: 2
         x: 507
-        y: 2676
+        y: 2677
         width: 45
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3894,15 +6840,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_62
+      name: WalkAnim13
       rect:
         serializedVersion: 2
         x: 568
         y: 2676
         width: 42
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3915,15 +6861,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_63
+      name: WalkAnim14
       rect:
         serializedVersion: 2
         x: 613
         y: 2676
         width: 35
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3936,15 +6882,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_64
+      name: WalkAnim15
       rect:
         serializedVersion: 2
         x: 657
         y: 2676
         width: 30
         height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4734,15 +7680,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_115
+      name: DashStart0
       rect:
         serializedVersion: 2
         x: 1
         y: 2446
         width: 36
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4755,15 +7701,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_116
+      name: DashStart1
       rect:
         serializedVersion: 2
         x: 40
         y: 2446
         width: 51
         height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4776,7 +7722,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_117
+      name: Dash0
       rect:
         serializedVersion: 2
         x: 91
@@ -4797,10 +7743,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_118
+      name: Dash1
       rect:
         serializedVersion: 2
-        x: 146
+        x: 147
         y: 2446
         width: 57
         height: 33
@@ -4818,7 +7764,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_119
+      name: Dash2
       rect:
         serializedVersion: 2
         x: 202
@@ -4839,7 +7785,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_120
+      name: DashStop0
       rect:
         serializedVersion: 2
         x: 270
@@ -4860,7 +7806,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_121
+      name: DashStop1
       rect:
         serializedVersion: 2
         x: 314
@@ -4881,7 +7827,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_122
+      name: DashStop2
       rect:
         serializedVersion: 2
         x: 354
@@ -4902,7 +7848,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_123
+      name: DashStop3
       rect:
         serializedVersion: 2
         x: 411
@@ -17505,12 +20451,12 @@ TextureImporter:
       name: IntroAnim5
       rect:
         serializedVersion: 2
-        x: 179
-        y: 2871
-        width: 69
-        height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 178
+        y: 2875
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17530,8 +20476,8 @@ TextureImporter:
         y: 2877
         width: 65
         height: 82
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17586,13 +20532,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_21
+      name: IdleAnimX7
       rect:
         serializedVersion: 2
-        x: 295
-        y: 2811
-        width: 41
-        height: 50
+        x: 292
+        y: 2814
+        width: 44
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -17712,13 +20658,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_10
+      name: WalkAnim2
       rect:
         serializedVersion: 2
-        x: 88
+        x: 89
         y: 2677
-        width: 34
-        height: 52
+        width: 33
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -17733,13 +20679,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_20
+      name: WalkAnim3
       rect:
         serializedVersion: 2
         x: 123
         y: 2678
-        width: 43
-        height: 50
+        width: 41
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -17754,13 +20700,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_65
+      name: WalkAnim6
       rect:
         serializedVersion: 2
         x: 269
         y: 2675
-        width: 41
-        height: 55
+        width: 42
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -17775,7 +20721,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_66
+      name: WalkAnim7
       rect:
         serializedVersion: 2
         x: 311

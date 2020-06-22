@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 971069878}
   - component: {fileID: 971069877}
   m_Layer: 0
-  m_Name: IntroAnim1
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
