@@ -18,9 +18,11 @@ public class PlayerController2D : MonoBehaviour
     private float _lastDashTime;
     [SerializeField]
     Transform GroundCheck;
-
+    [SerializeField]
     private float walkSpeed = 1.5f; //variable for walking speed.
+    [SerializeField]
     private float jumpHeight = 5; //variable for jumping height.
+    [SerializeField]
     private float dashSpeed = 3.0f; //variable for dashing speed.
 
     // Start is called before the first frame update

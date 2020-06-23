@@ -28,10 +28,10 @@ TextureImporter:
     second: background0
   - first:
       213: 3106124432744532337
-    second: SNES - Mega Man X - Intro Stage_8
+    second: sidepanel0
   - first:
       213: -3448643519700328367
-    second: SNES - Mega Man X - Intro Stage_9
+    second: ground2
   - first:
       213: -1107091854755080361
     second: foreground0
@@ -273,10 +273,10 @@ TextureImporter:
       name: foreground0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 58
         y: 973
-        width: 1323
-        height: 264
+        width: 744
+        height: 252
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,6 +328,48 @@ TextureImporter:
       bones: []
       spriteID: 3cba6cd0e0c7f2f90800000000000000
       internalID: -6976220897971098685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sidepanel0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 50
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17946e1f6bb2b1b20800000000000000
+      internalID: 3106124432744532337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 972
+        width: 508
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502f439df4f320d0800000000000000
+      internalID: -3448643519700328367
       vertices: []
       indices: 
       edges: []
