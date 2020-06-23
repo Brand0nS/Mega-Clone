@@ -25,7 +25,7 @@ TextureImporter:
     second: IntroAnim15
   - first:
       213: 5013960564188029957
-    second: Megaman-X5-SpriteSheet_7
+    second: Shoot2
   - first:
       213: 4878959948116101905
     second: IntroAnim7
@@ -124,43 +124,43 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_39
   - first:
       213: 6685119496417795024
-    second: Megaman-X5-SpriteSheet_40
+    second: Shoot0
   - first:
       213: -796439375263704236
-    second: Megaman-X5-SpriteSheet_41
+    second: Shoot1
   - first:
       213: 4701272429701814484
-    second: Megaman-X5-SpriteSheet_42
+    second: Shoot3
   - first:
       213: -8174274065569356260
-    second: Megaman-X5-SpriteSheet_43
+    second: Shoot4
   - first:
       213: 4806659281807227154
-    second: Megaman-X5-SpriteSheet_44
+    second: ShootCharged0
   - first:
       213: -9022598388288553164
-    second: Megaman-X5-SpriteSheet_45
+    second: ShootCharged1
   - first:
       213: -5792272794178989714
-    second: Megaman-X5-SpriteSheet_46
+    second: ShootCharged2
   - first:
       213: -6626020368929662716
-    second: Megaman-X5-SpriteSheet_47
+    second: ShootCharged3
   - first:
       213: -6417343293701317395
-    second: Megaman-X5-SpriteSheet_48
+    second: ShootCharged4
   - first:
       213: -2613275820674647633
-    second: Megaman-X5-SpriteSheet_49
+    second: ShootCharged5
   - first:
       213: -3034725455906569559
-    second: Megaman-X5-SpriteSheet_50
+    second: ShootCharged6
   - first:
       213: 1808416906524383687
     second: Megaman-X5-SpriteSheet_51
   - first:
       213: -4132364917883251066
-    second: Megaman-X5-SpriteSheet_52
+    second: ShootCharged7
   - first:
       213: -2878163124174307927
     second: WalkAnim0
@@ -433,37 +433,37 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_142
   - first:
       213: -8938754572574967730
-    second: Megaman-X5-SpriteSheet_143
+    second: Jump0
   - first:
       213: -5396133523038403004
-    second: Megaman-X5-SpriteSheet_144
+    second: Jump1
   - first:
       213: -6785131749530090887
-    second: Megaman-X5-SpriteSheet_145
+    second: Jump2
   - first:
       213: -6005486970499111605
-    second: Megaman-X5-SpriteSheet_146
+    second: Jump3
   - first:
       213: -5345994625620076823
-    second: Megaman-X5-SpriteSheet_147
+    second: Jump4
   - first:
       213: -1393795932245405924
-    second: Megaman-X5-SpriteSheet_148
+    second: Jump5
   - first:
       213: 7535396970704068098
-    second: Megaman-X5-SpriteSheet_149
+    second: Jump6
   - first:
       213: 5722944093361336561
-    second: Megaman-X5-SpriteSheet_150
+    second: Jump7
   - first:
       213: 3769008765739991278
-    second: Megaman-X5-SpriteSheet_151
+    second: Jump8
   - first:
       213: -5926480368403061620
-    second: Megaman-X5-SpriteSheet_152
+    second: Land0
   - first:
       213: 2888043429306858325
-    second: Megaman-X5-SpriteSheet_153
+    second: Land1
   - first:
       213: 1016750363038669887
     second: Megaman-X5-SpriteSheet_154
@@ -2698,7 +2698,7 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_6
   - first:
       213: -511763681443698962
-    second: Megaman-X5-SpriteSheet_7
+    second: Shoot2
   - first:
       213: -6379455080512401612
     second: Megaman-X5-SpriteSheet_8
@@ -2791,43 +2791,43 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_39
   - first:
       213: -9143113285805827009
-    second: Megaman-X5-SpriteSheet_40
+    second: Shoot0
   - first:
       213: 2749090867030031875
-    second: Megaman-X5-SpriteSheet_41
+    second: Shoot1
   - first:
       213: -8877808321935048875
-    second: Megaman-X5-SpriteSheet_42
+    second: Shoot3
   - first:
       213: 6160465774561400682
-    second: Megaman-X5-SpriteSheet_43
+    second: Shoot4
   - first:
       213: -6895502732767040360
-    second: Megaman-X5-SpriteSheet_44
+    second: ShootCharged0
   - first:
       213: -2081439947467014087
-    second: Megaman-X5-SpriteSheet_45
+    second: ShootCharged1
   - first:
       213: 3118953137284750345
-    second: Megaman-X5-SpriteSheet_46
+    second: ShootCharged2
   - first:
       213: -3087281046975609502
-    second: Megaman-X5-SpriteSheet_47
+    second: ShootCharged3
   - first:
       213: -2797227682845591080
-    second: Megaman-X5-SpriteSheet_48
+    second: ShootCharged4
   - first:
       213: -4407273725737321864
-    second: Megaman-X5-SpriteSheet_49
+    second: ShootCharged5
   - first:
       213: 5423230880643977401
-    second: Megaman-X5-SpriteSheet_50
+    second: ShootCharged6
   - first:
       213: -4716388265814736192
     second: Megaman-X5-SpriteSheet_51
   - first:
       213: 5802996051703534731
-    second: Megaman-X5-SpriteSheet_52
+    second: ShootCharged7
   - first:
       213: 7480424587287255360
     second: WalkAnim0
@@ -3055,37 +3055,37 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_138
   - first:
       213: 4837720874539624813
-    second: Megaman-X5-SpriteSheet_143
+    second: Jump0
   - first:
       213: 879024354896509135
-    second: Megaman-X5-SpriteSheet_144
+    second: Jump1
   - first:
       213: 8423690894333527422
-    second: Megaman-X5-SpriteSheet_145
+    second: Jump2
   - first:
       213: 4306942644613651527
-    second: Megaman-X5-SpriteSheet_146
+    second: Jump3
   - first:
       213: -3984569704160474857
-    second: Megaman-X5-SpriteSheet_147
+    second: Jump4
   - first:
       213: 6419157534454039129
-    second: Megaman-X5-SpriteSheet_148
+    second: Jump5
   - first:
       213: 9013690943886790717
-    second: Megaman-X5-SpriteSheet_149
+    second: Jump6
   - first:
       213: 4175482081629318787
-    second: Megaman-X5-SpriteSheet_150
+    second: Jump7
   - first:
       213: 3964179475037805815
-    second: Megaman-X5-SpriteSheet_151
+    second: Jump8
   - first:
       213: 7317000633295774491
-    second: Megaman-X5-SpriteSheet_152
+    second: Land0
   - first:
       213: -7237236742060499111
-    second: Megaman-X5-SpriteSheet_153
+    second: Land1
   - first:
       213: -657886675207588921
     second: Megaman-X5-SpriteSheet_154
@@ -6378,15 +6378,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_40
+      name: Shoot0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2736
-        width: 54
-        height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 7
+        y: 2737
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6399,15 +6399,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_41
+      name: Shoot1
       rect:
         serializedVersion: 2
         x: 57
         y: 2735
         width: 43
         height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6420,15 +6420,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_42
+      name: Shoot3
       rect:
         serializedVersion: 2
         x: 156
         y: 2737
         width: 41
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6441,15 +6441,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_43
+      name: Shoot4
       rect:
         serializedVersion: 2
         x: 204
         y: 2737
         width: 38
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6462,15 +6462,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_44
+      name: ShootCharged0
       rect:
         serializedVersion: 2
         x: 250
-        y: 2737
+        y: 2738
         width: 45
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6483,15 +6483,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_45
+      name: ShootCharged1
       rect:
         serializedVersion: 2
         x: 300
         y: 2737
         width: 44
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6504,15 +6504,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_46
+      name: ShootCharged2
       rect:
         serializedVersion: 2
         x: 349
         y: 2737
         width: 43
         height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6525,15 +6525,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_47
+      name: ShootCharged3
       rect:
         serializedVersion: 2
         x: 401
         y: 2737
         width: 39
         height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6546,15 +6546,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_48
+      name: ShootCharged4
       rect:
         serializedVersion: 2
         x: 450
         y: 2737
         width: 37
         height: 54
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6567,15 +6567,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_49
+      name: ShootCharged5
       rect:
         serializedVersion: 2
         x: 494
         y: 2737
         width: 42
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6588,15 +6588,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_50
+      name: ShootCharged6
       rect:
         serializedVersion: 2
         x: 548
         y: 2737
         width: 36
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6630,15 +6630,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_52
+      name: ShootCharged7
       rect:
         serializedVersion: 2
         x: 626
         y: 2737
         width: 44
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8163,16 +8163,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_143
+      name: Jump0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2346
+        y: 2358
         width: 36
-        height: 63
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -8184,15 +8184,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_144
+      name: Jump1
       rect:
         serializedVersion: 2
         x: 37
         y: 2362
         width: 26
         height: 53
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8205,15 +8205,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_145
+      name: Jump2
       rect:
         serializedVersion: 2
         x: 79
         y: 2359
         width: 26
         height: 56
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8226,15 +8226,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_146
+      name: Jump3
       rect:
         serializedVersion: 2
         x: 122
         y: 2359
         width: 27
         height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8247,15 +8247,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_147
+      name: Jump4
       rect:
         serializedVersion: 2
         x: 155
         y: 2369
         width: 30
         height: 56
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8268,15 +8268,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_148
+      name: Jump5
       rect:
         serializedVersion: 2
         x: 196
         y: 2370
         width: 37
         height: 54
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8289,15 +8289,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_149
+      name: Jump6
       rect:
         serializedVersion: 2
         x: 234
         y: 2360
         width: 36
         height: 55
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8310,15 +8310,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_150
+      name: Jump7
       rect:
         serializedVersion: 2
         x: 276
         y: 2357
         width: 32
         height: 58
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8331,15 +8331,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_151
+      name: Jump8
       rect:
         serializedVersion: 2
         x: 311
         y: 2353
         width: 35
         height: 55
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8352,15 +8352,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_152
+      name: Land0
       rect:
         serializedVersion: 2
         x: 353
         y: 2357
         width: 33
         height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -8373,15 +8373,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_153
+      name: Land1
       rect:
         serializedVersion: 2
         x: 389
         y: 2359
         width: 35
         height: 46
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -20637,7 +20637,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_7
+      name: Shoot2
       rect:
         serializedVersion: 2
         x: 104
