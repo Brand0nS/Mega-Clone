@@ -18,6 +18,11 @@ public class PlayerController2D : MonoBehaviour
     private float _lastDashTime;
     [SerializeField]
     Transform GroundCheck;
+
+    private float walkSpeed = 1.5f; //variable for walking speed.
+    private float jumpHeight = 5; //variable for jumping height.
+    private float dashSpeed = 3.0f; //variable for dashing speed.
+
     // Start is called before the first frame update
     void Start()
     {
@@ -53,7 +58,7 @@ public class PlayerController2D : MonoBehaviour
             {
                 InitiateDash();
                 _lastDashButtonTime = Time.time;
-                rigidBody2D.velocity = new Vector2(4, rigidBody2D.velocity.y); //change velocity by 4
+                rigidBody2D.velocity = new Vector2(3, rigidBody2D.velocity.y); //change velocity by 4
                 animator.Play("DashAnim");
                 spriteRenderer.flipX = true; // flip the character
             }
@@ -64,7 +69,7 @@ public class PlayerController2D : MonoBehaviour
                 {
                     InitiateDash();
                     _lastDashButtonTime = Time.time;
-                    rigidBody2D.velocity = new Vector2(-4, rigidBody2D.velocity.y); //change velocity by -4
+                    rigidBody2D.velocity = new Vector2(-3, rigidBody2D.velocity.y); //change velocity by -4
                     animator.Play("DashAnim");
                     spriteRenderer.flipX = false; //don't flip the character
                 }
@@ -82,7 +87,7 @@ public class PlayerController2D : MonoBehaviour
  
         if (Input.GetKey("d") || Input.GetKey("right")) //if key input is d or the right arrow key
         {
-            rigidBody2D.velocity = new Vector2(2, rigidBody2D.velocity.y); //change velocity by 2
+            rigidBody2D.velocity = new Vector2(walkSpeed, rigidBody2D.velocity.y); //change velocity by 2
             if (isGrounded) 
             {
                 animator.Play("WalkLoopAnim");
@@ -98,7 +103,7 @@ public class PlayerController2D : MonoBehaviour
         }
             else if (Input.GetKey("a") || Input.GetKey("left")) //else if key input is a or left arrow key
         {
-            rigidBody2D.velocity = new Vector2(-2, rigidBody2D.velocity.y); //change velocity by -2 (go to the left)
+            rigidBody2D.velocity = new Vector2(-walkSpeed, rigidBody2D.velocity.y); //change velocity by -2 (go to the left)
 
             if (isGrounded)
             {
@@ -118,7 +123,7 @@ public class PlayerController2D : MonoBehaviour
 
         if (Input.GetKey("space")&& isGrounded) //if the spacebar key is pressed and character is grounded
         {
-            rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x,4); //keep the velocity the same for x but change it for y
+            rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x,jumpHeight); //keep the velocity the same for x but change it for y
             animator.Play("JumpAnim");
             
 
