@@ -6381,10 +6381,10 @@ TextureImporter:
       name: Shoot0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 2737
-        width: 44
-        height: 46
+        x: 5
+        y: 2738
+        width: 46
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6403,9 +6403,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 57
-        y: 2735
+        y: 2738
         width: 43
-        height: 50
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6423,9 +6423,9 @@ TextureImporter:
       name: Shoot3
       rect:
         serializedVersion: 2
-        x: 156
+        x: 157
         y: 2737
-        width: 41
+        width: 40
         height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6487,9 +6487,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 300
-        y: 2737
+        y: 2738
         width: 44
-        height: 46
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -20641,12 +20641,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 104
-        y: 2734
+        y: 2737
         width: 45
-        height: 52
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 2, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
