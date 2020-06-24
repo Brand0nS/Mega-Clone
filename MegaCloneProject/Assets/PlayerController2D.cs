@@ -10,7 +10,7 @@ public class PlayerController2D : MonoBehaviour
     SpriteRenderer spriteRenderer;
     bool isGrounded;
     bool canMove;
-    public float doubleTapTime = 0.5f; //tapping the dash button within half a second will trigger this.
+    public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
     public float dashWaitTime = 2.0f; // must wait 2 seconds inbetween every dash.
     // Time that the dash button was last pressed
     private float _lastDashButtonTime;
@@ -40,6 +40,11 @@ public class PlayerController2D : MonoBehaviour
         {
             return Time.time - _lastDashTime > dashWaitTime;
         }
+    }
+
+    void FlipChar()
+    {
+        transform.Rotate(0f, 180f, 0f);
     }
 
     void InitiateDashRight()
@@ -83,6 +88,8 @@ public class PlayerController2D : MonoBehaviour
                 }
             }
         }
+
+        //This is the Groundcheck that allows the character to Jump.
         if (Physics2D.Linecast(transform.position,GroundCheck.position, 1 << LayerMask.NameToLayer("Foreground"))) //if Linecast goes from player to foreground object,
         {                                                                       //and it hits the Foreground Layer, then
             isGrounded = true;                                                  //return true
@@ -99,6 +106,7 @@ public class PlayerController2D : MonoBehaviour
             if (isGrounded) 
             {
                 animator.Play("WalkLoopAnim");
+                
                 spriteRenderer.flipX = true; //flip the character
             }
 
@@ -116,7 +124,8 @@ public class PlayerController2D : MonoBehaviour
             if (isGrounded)
             {
                 animator.Play("WalkLoopAnim");
-                spriteRenderer.flipX = false; //don't flip the character
+                spriteRenderer.flipX = false; //flip the character
+
             }
         }
 
