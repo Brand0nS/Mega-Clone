@@ -42,12 +42,24 @@ public class PlayerController2D : MonoBehaviour
         }
     }
 
-    void InitiateDash()
+    void InitiateDashRight()
     {
         _lastDashTime = Time.time;
-        
+        _lastDashButtonTime = Time.time;
+        rigidBody2D.velocity = new Vector2(3, rigidBody2D.velocity.y); //change velocity by 4
+        animator.Play("DashAnim");
+        spriteRenderer.flipX = true; // flip the character
 
         // blah...
+    }
+
+    void InitiateDash()
+    {
+        _lastDashButtonTime = Time.time;
+        rigidBody2D.velocity = new Vector2(-3, rigidBody2D.velocity.y); //change velocity by -4
+        animator.Play("DashAnim");
+        spriteRenderer.flipX = false; //don't flip the character
+
     }
     // Update is called once per frame
 
@@ -58,11 +70,8 @@ public class PlayerController2D : MonoBehaviour
             // If second time pressed?
             if (Time.time - _lastDashButtonTime < doubleTapTime)
             {
-                InitiateDash();
-                _lastDashButtonTime = Time.time;
-                rigidBody2D.velocity = new Vector2(3, rigidBody2D.velocity.y); //change velocity by 4
-                animator.Play("DashAnim");
-                spriteRenderer.flipX = true; // flip the character
+                InitiateDashRight();
+               
             }
 
             else if (canDash && (Input.GetKeyDown(KeyCode.A)||Input.GetKeyDown(KeyCode.LeftArrow)))
@@ -70,10 +79,7 @@ public class PlayerController2D : MonoBehaviour
                 if (Time.time - _lastDashButtonTime < doubleTapTime)
                 {
                     InitiateDash();
-                    _lastDashButtonTime = Time.time;
-                    rigidBody2D.velocity = new Vector2(-3, rigidBody2D.velocity.y); //change velocity by -4
-                    animator.Play("DashAnim");
-                    spriteRenderer.flipX = false; //don't flip the character
+                   
                 }
             }
         }
