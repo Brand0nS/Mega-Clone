@@ -25,7 +25,7 @@ TextureImporter:
     second: SNES - Mega Man X - Intro Stage_6
   - first:
       213: -126493063557733280
-    second: background0
+    second: background1
   - first:
       213: 3106124432744532337
     second: sidepanel0
@@ -38,6 +38,9 @@ TextureImporter:
   - first:
       213: -6976220897971098685
     second: foreground2
+  - first:
+      213: 2995268773850597759
+    second: background0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -249,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background0
+      name: background1
       rect:
         serializedVersion: 2
         x: 2325
@@ -362,7 +365,7 @@ TextureImporter:
         width: 508
         height: 248
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -370,6 +373,27 @@ TextureImporter:
       bones: []
       spriteID: 1502f439df4f320d0800000000000000
       internalID: -3448643519700328367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 718
+        width: 511
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f794f288415519920800000000000000
+      internalID: 2995268773850597759
       vertices: []
       indices: 
       edges: []
