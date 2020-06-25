@@ -138,7 +138,11 @@ public class PlayerController2D : MonoBehaviour
             }
         }
 
-        if (Input.GetKey("space")&& isGrounded) //if the spacebar key is pressed and character is grounded
+        // Edited by Ricardo Guerra
+        // Using Input.GetKeyDown is more optimal.
+        // The character should not keep jumping while the spacebar key is held down.
+        // If the spacebar key is pressed (not held down) and if the character is grounded...
+        if (Input.GetKeyDown("space")&& isGrounded)
         {
             rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x,jumpHeight); //keep the velocity the same for x but change it for y
             animator.Play("JumpAnim");
