@@ -149,5 +149,10 @@ public class PlayerController2D : MonoBehaviour
             
 
         }
+
+        if (Input.GetKey("down") || Input.GetKey("s")) //Basic Crouch Functionality
+        {
+            animator.Play("CrouchAnim");
+        }
     }
 }

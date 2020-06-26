@@ -700,10 +700,10 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_231
   - first:
       213: 2563740809743749526
-    second: Megaman-X5-SpriteSheet_232
+    second: Crouch0
   - first:
       213: 5743739532365195322
-    second: Megaman-X5-SpriteSheet_233
+    second: Crouch1
   - first:
       213: -5948360240791256050
     second: Megaman-X5-SpriteSheet_234
@@ -3322,10 +3322,10 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_231
   - first:
       213: -6358349772427826166
-    second: Megaman-X5-SpriteSheet_232
+    second: Crouch0
   - first:
       213: -3231322917955912440
-    second: Megaman-X5-SpriteSheet_233
+    second: Crouch1
   - first:
       213: -3067113175183793702
     second: Megaman-X5-SpriteSheet_234
@@ -10032,7 +10032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_232
+      name: Crouch0
       rect:
         serializedVersion: 2
         x: 7
@@ -10053,7 +10053,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_233
+      name: Crouch1
       rect:
         serializedVersion: 2
         x: 52
