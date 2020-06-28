@@ -8,7 +8,7 @@ public class PlayerController2D : MonoBehaviour
     Rigidbody2D rigidBody2D;
     SpriteRenderer spriteRenderer;
     bool isGrounded;
-    bool canMove;
+    bool canMove; 
     public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
     public float dashWaitTime = 0.75f; // must wait 0.75 seconds inbetween every dash.
     // Time that the dash button was last pressed
@@ -23,6 +23,10 @@ public class PlayerController2D : MonoBehaviour
     private float jumpHeight = 5; //variable for jumping height.
     [SerializeField]
     private float dashSpeed = 3.0f; //variable for dashing speed.
+
+    private float lastImageXpos;
+
+    public float distanceBetweenImages;
 
     // Added by Ricardo Guerra
     // Is the character currently dashing or not?
@@ -98,6 +102,9 @@ public class PlayerController2D : MonoBehaviour
         }
         rigidBody2D.velocity = new Vector2(currentDashSpeed, rigidBody2D.velocity.y); //change velocity by 4
         animator.Play("DashAnim");
+        AfterImagePool.Instance.GetFromPool();
+        lastImageXpos = transform.position.x;
+
     }
     // End of Ricardo's code.
 
@@ -112,6 +119,14 @@ public class PlayerController2D : MonoBehaviour
             // Make the character stop dashing.
             isDashing = false;
             stopDashing = true;
+
+            if (Mathf.Abs(transform.position.x - lastImageXpos) > distanceBetweenImages)
+            {
+                AfterImagePool.Instance.GetFromPool();
+                lastImageXpos = transform.position.x; 
+            }
+
+            
         }
         
         // Dash in the direction that the character is facing.
