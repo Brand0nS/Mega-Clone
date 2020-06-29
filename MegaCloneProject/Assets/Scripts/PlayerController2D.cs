@@ -102,8 +102,8 @@ public class PlayerController2D : MonoBehaviour
         }
         rigidBody2D.velocity = new Vector2(currentDashSpeed, rigidBody2D.velocity.y); //change velocity by 4
         animator.Play("DashAnim");
-        AfterImagePool.Instance.GetFromPool();
-        lastImageXpos = transform.position.x;
+        AfterImagePool.Instance.GetFromPool(); //initiates the afterimages, (Gets the data from the pool)
+        lastImageXpos = transform.position.x; //sets the last image x position to the position of the character.
 
     }
     // End of Ricardo's code.
