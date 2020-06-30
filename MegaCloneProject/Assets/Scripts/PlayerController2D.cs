@@ -7,6 +7,12 @@ public class PlayerController2D : MonoBehaviour
     Animator animator;
     Rigidbody2D rigidBody2D;
     SpriteRenderer spriteRenderer;
+    [SerializeField]
+    public float healthBar;
+    [SerializeField]
+    public float maxHealth;
+    [SerializeField]
+    int amountOfLives;  
     bool isGrounded;
     bool canMove;
     int facingDirection = 1;    
@@ -45,7 +51,10 @@ public class PlayerController2D : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rigidBody2D = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();     
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        maxHealth = 100f;
+        healthBar = maxHealth;
+        amountOfLives = 5;
     }
 
     bool canDash //can the character dash?

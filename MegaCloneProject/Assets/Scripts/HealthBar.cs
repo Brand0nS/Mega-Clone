@@ -5,15 +5,15 @@ using UnityEngine;
 public class HealthBar : MonoBehaviour
 {
     [SerializeField]
-    int healthBar;
+   public float healthBar;
     [SerializeField]
-    int currentHealth;
+    public float maxHealth;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        maxHealth = 100f;
     }
 
     // Update is called once per frame
