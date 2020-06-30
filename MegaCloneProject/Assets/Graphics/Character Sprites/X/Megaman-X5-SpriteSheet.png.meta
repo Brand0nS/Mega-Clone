@@ -103,22 +103,22 @@ TextureImporter:
     second: IdleAnimX10
   - first:
       213: -974085163020978768
-    second: Megaman-X5-SpriteSheet_33
+    second: HurtXAnim0
   - first:
       213: -8555335523847367551
-    second: Megaman-X5-SpriteSheet_34
+    second: HurtXAnim1
   - first:
       213: -895048954760217855
-    second: Megaman-X5-SpriteSheet_35
+    second: HurtXAnim2
   - first:
       213: -6370416006799274365
-    second: Megaman-X5-SpriteSheet_36
+    second: HurtXAnim3
   - first:
       213: 4332787207756106209
-    second: Megaman-X5-SpriteSheet_37
+    second: HurtXAnim4
   - first:
       213: -3945531331983191064
-    second: Megaman-X5-SpriteSheet_38
+    second: HurtXAnim5
   - first:
       213: 896685017556487801
     second: Megaman-X5-SpriteSheet_39
@@ -2770,22 +2770,22 @@ TextureImporter:
     second: Megaman-X5-SpriteSheet_32
   - first:
       213: -2240608133024020586
-    second: Megaman-X5-SpriteSheet_33
+    second: HurtXAnim0
   - first:
       213: 7563347884886473434
-    second: Megaman-X5-SpriteSheet_34
+    second: HurtXAnim1
   - first:
       213: -4102596816945219021
-    second: Megaman-X5-SpriteSheet_35
+    second: HurtXAnim2
   - first:
       213: 1949437895387455819
-    second: Megaman-X5-SpriteSheet_36
+    second: HurtXAnim3
   - first:
       213: -3563417937096092478
-    second: Megaman-X5-SpriteSheet_37
+    second: HurtXAnim4
   - first:
       213: -2171803356924355187
-    second: Megaman-X5-SpriteSheet_38
+    second: HurtXAnim5
   - first:
       213: 1247158132889051247
     second: Megaman-X5-SpriteSheet_39
@@ -6231,15 +6231,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_33
+      name: HurtXAnim0
       rect:
         serializedVersion: 2
         x: 503
         y: 2812
-        width: 36
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6252,15 +6252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_34
+      name: HurtXAnim1
       rect:
         serializedVersion: 2
         x: 551
         y: 2812
-        width: 37
+        width: 36
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6273,15 +6273,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_35
+      name: HurtXAnim2
       rect:
         serializedVersion: 2
-        x: 600
+        x: 601
         y: 2812
-        width: 37
-        height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6294,15 +6294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_36
+      name: HurtXAnim3
       rect:
         serializedVersion: 2
         x: 650
         y: 2812
-        width: 36
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6315,15 +6315,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_37
+      name: HurtXAnim4
       rect:
         serializedVersion: 2
-        x: 704
+        x: 698
         y: 2813
-        width: 37
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6336,15 +6336,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman-X5-SpriteSheet_38
+      name: HurtXAnim5
       rect:
         serializedVersion: 2
         x: 747
         y: 2812
         width: 36
         height: 50
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

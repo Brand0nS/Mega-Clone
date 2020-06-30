@@ -8,7 +8,8 @@ public class PlayerController2D : MonoBehaviour
     Rigidbody2D rigidBody2D;
     SpriteRenderer spriteRenderer;
     bool isGrounded;
-    bool canMove; 
+    bool canMove;
+    int facingDirection = 1;    
     public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
     public float dashWaitTime = 0.75f; // must wait 0.75 seconds inbetween every dash.
     // Time that the dash button was last pressed
@@ -55,28 +56,7 @@ public class PlayerController2D : MonoBehaviour
         }
     }
 
-    void FlipChar()
-    {
-        transform.Rotate(0f, 180f, 0f);
-    }
-
-    void InitiateDashRight()
-    {
-        _lastDashTime = Time.time;
-        _lastDashButtonTime = Time.time;
-        rigidBody2D.velocity = new Vector2(3, rigidBody2D.velocity.y); //change velocity by 4
-        animator.Play("DashAnim");
-        spriteRenderer.flipX = true; // flip the character
-    }
-
-    void InitiateDash()
-    {
-        _lastDashTime = Time.time;
-        _lastDashButtonTime = Time.time;
-        rigidBody2D.velocity = new Vector2(-3, rigidBody2D.velocity.y); //change velocity by -4
-        animator.Play("DashAnim");
-        spriteRenderer.flipX = false; //don't flip the character
-    }
+   
         
     /* Added by Ricardo Guerra
      * Method name: Dash
@@ -142,23 +122,7 @@ public class PlayerController2D : MonoBehaviour
             stopDashing = false;
         }
         // End of Ricardo's code.
-
-        if (canDash && (Input.GetKey("d") || Input.GetKey("right")))
-        {
-            // If second time pressed?
-            if (Time.time - _lastDashButtonTime < doubleTapTime)
-            {
-                InitiateDashRight();               
-            }
-
-            else if (canDash && (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow)))
-            {
-                if (Time.time - _lastDashButtonTime < doubleTapTime)
-                {
-                    InitiateDash();                   
-                }
-            }
-        }
+    
 
         //This is the Groundcheck that allows the character to Jump.
         if (Physics2D.Linecast(transform.position,GroundCheck.position, 1 << LayerMask.NameToLayer("Foreground"))) //if Linecast goes from player to foreground object,
