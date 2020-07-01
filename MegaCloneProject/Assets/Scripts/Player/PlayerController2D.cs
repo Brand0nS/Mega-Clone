@@ -13,7 +13,7 @@ public class PlayerController2D : MonoBehaviour
     public float maxHealth;
     [SerializeField]
     int amountOfLives;  
-    bool isGrounded;
+    bool isGrounded, canJump;
     bool canMove;
     int facingDirection = 1;    
     public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
@@ -95,6 +95,11 @@ public class PlayerController2D : MonoBehaviour
         lastImageXpos = transform.position.x; //sets the last image x position to the position of the character.
 
     }
+
+    void Flip()
+    {
+        transform.Rotate(0f, 180f, 0f);
+    }
     // End of Ricardo's code.
 
     // Update is called once per frame
@@ -141,6 +146,14 @@ public class PlayerController2D : MonoBehaviour
         else
         {
             isGrounded = false;
+        }
+
+        if (Input.GetKeyDown("down") || Input.GetKeyDown("s")) //Basic Crouch Functionality
+        {
+            canMove = false;
+            canJump = false;
+            
+            animator.Play("CrouchAnim");
         }
 
         if (Input.GetKey("d") || Input.GetKey("right")) //if key input is d or the right arrow key
@@ -202,13 +215,11 @@ public class PlayerController2D : MonoBehaviour
         // If the spacebar key is pressed (not held down) and if the character is grounded...
         if (Input.GetKeyDown("space") && isGrounded)
         {
+           
             rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x,jumpHeight); //keep the velocity the same for x but change it for y
             animator.Play("JumpAnim");
         }
 
-        if (Input.GetKey("down") || Input.GetKey("s")) //Basic Crouch Functionality
-        {
-            animator.Play("CrouchAnim");
-        }
+      
     }
 }
