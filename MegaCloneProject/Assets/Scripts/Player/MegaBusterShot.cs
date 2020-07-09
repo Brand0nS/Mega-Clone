@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class MegaBusterShot : MonoBehaviour
 {
-
-
+        
+    public PlayerController2D player;
     public Transform firePoint;
     public GameObject bulletPrefab;
+    public Animator animator;
 
     // Update is called once per frame
     void Update()
@@ -17,11 +18,15 @@ public class MegaBusterShot : MonoBehaviour
             Shoot();
         }
     }
- 
 
-    void Shoot()
+
+    public void Shoot()
     {
         //shoot logic  
+        
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        animator.Play("ShootAnim");
+
+
     }
 }

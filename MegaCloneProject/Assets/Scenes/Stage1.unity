@@ -943,6 +943,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9648737c7d22706418b28d91eaa00add, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  firePoint: {fileID: 859382700}
+  Buster: {fileID: 6056382098462995791, guid: 9587304a731e327478eb98b5e76baa2c, type: 3}
+  BusterLeft: {fileID: 6056382098462995791, guid: b6d6b67f607f04d4dbb270e40a712553,
+    type: 3}
   healthBar: 0
   maxHealth: 0
   amountOfLives: 0
@@ -965,9 +969,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46232d56f5a4ef6419c97a19e52fbe93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
   firePoint: {fileID: 859382700}
   bulletPrefab: {fileID: 6056382098462995791, guid: 9587304a731e327478eb98b5e76baa2c,
     type: 3}
+  animator: {fileID: 0}
 --- !u!114 &971069884
 MonoBehaviour:
   m_ObjectHideFlags: 0

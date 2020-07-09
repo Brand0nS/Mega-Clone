@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class PlayerController2D : MonoBehaviour
 {
+    //Variables
+    public Transform firePoint;
+    [SerializeField]
+    public GameObject Buster, BusterLeft;
     Animator animator;
     Rigidbody2D rigidBody2D;
     SpriteRenderer spriteRenderer;
@@ -13,9 +17,9 @@ public class PlayerController2D : MonoBehaviour
     public float maxHealth;
     [SerializeField]
     int amountOfLives;  
-    bool isGrounded, canJump;
+    bool isGrounded, canJump; //boolean tests for canJump, isGrounded
     bool canMove;
-    int facingDirection = 1;    
+    bool facingRight;  //true is for right, false is for left 
     public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
     public float dashWaitTime = 0.75f; // must wait 0.75 seconds inbetween every dash.
     // Time that the dash button was last pressed
@@ -33,7 +37,7 @@ public class PlayerController2D : MonoBehaviour
 
     private float lastImageXpos;
 
-    public float distanceBetweenImages;
+    public float distanceBetweenImages; 
 
     // Added by Ricardo Guerra
     // Is the character currently dashing or not?
@@ -46,13 +50,20 @@ public class PlayerController2D : MonoBehaviour
     private bool stopDashing = false;
     // End of Ricardo's code.
 
+
+        
+
+
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         rigidBody2D = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        maxHealth = 100f;
+        maxHealth = 50f;
         healthBar = maxHealth;
         amountOfLives = 5;
     }
@@ -81,13 +92,14 @@ public class PlayerController2D : MonoBehaviour
             isDashing = true;
         }
 
-        if (spriteRenderer.flipX)
+        if (spriteRenderer.flipX) 
         {
             currentDashSpeed = dashSpeed;
         }
         else
         {
             currentDashSpeed = -1 * dashSpeed;
+            
         }
         rigidBody2D.velocity = new Vector2(currentDashSpeed, rigidBody2D.velocity.y); //change velocity by 4
         animator.Play("DashAnim");
@@ -148,9 +160,9 @@ public class PlayerController2D : MonoBehaviour
             isGrounded = false;
         }
 
-        if (Input.GetKeyDown("down") || Input.GetKeyDown("s")) //Basic Crouch Functionality
+        if (Input.GetKey("down") || Input.GetKey("s")) //Basic Crouch Functionality
         {
-            canMove = false;
+            canMove = false; //if key is pressed, then you can't jump and you can't move while crouching
             canJump = false;
             
             animator.Play("CrouchAnim");
@@ -162,6 +174,7 @@ public class PlayerController2D : MonoBehaviour
             // This line of code should not go into of the isGrounded if statement,
             // if you want the character's sprite to flip while jumping as well.
             spriteRenderer.flipX = true; // Flip the sprite for the character.
+            
 
             // Edited by Ricardo Guerra
             // This should only happen when the character is not dashing.
@@ -172,6 +185,7 @@ public class PlayerController2D : MonoBehaviour
                 if (isGrounded)
                 {
                     animator.Play("WalkLoopAnim");
+                    facingRight = true;
                 }
             }
         }
@@ -182,7 +196,7 @@ public class PlayerController2D : MonoBehaviour
                 // Edited by Ricardo Guerra
                 // This line of code should not go into of the isGrounded if statement,
                 // if you want the character's sprite to flip while jumping as well.
-                spriteRenderer.flipX = false; // Flip the sprite for the character.
+                spriteRenderer.flipX = false; // don't flip the sprite for the character.
 
                 // Edited by Ricardo Guerra
                 // This should only happen when the character is not dashing.
@@ -193,6 +207,7 @@ public class PlayerController2D : MonoBehaviour
                     if (isGrounded)
                     {
                         animator.Play("WalkLoopAnim");
+                        facingRight = false;
                     }
                 }
             }
@@ -220,6 +235,26 @@ public class PlayerController2D : MonoBehaviour
             animator.Play("JumpAnim");
         }
 
-      
+
+        //each time the character moves, they log the movement to a variable to tell if the character is facing right
+        if (facingRight && Input.GetKey("LeftControl")) //if the character is facing right and pressing the shoot button
+        {
+            Instantiate(Buster, firePoint.position, firePoint.rotation); //instantiate a bullet object
+            animator.Play("ShootAnim"); 
+        }
+        else if(!facingRight && Input.GetKey("LeftControl")){
+            Instantiate(BusterLeft, firePoint.position, firePoint.rotation);
+
+        }
+        
+
+
+
+        
+     
+     
+        
+
+
     }
 }
