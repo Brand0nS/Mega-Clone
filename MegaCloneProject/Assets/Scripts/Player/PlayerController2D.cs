@@ -22,10 +22,15 @@ public class PlayerController2D : MonoBehaviour
     bool facingRight;  //true is for right, false is for left 
     public float doubleTapTime = 1.0f; //tapping the dash button within a second will trigger this.
     public float dashWaitTime = 0.75f; // must wait 0.75 seconds inbetween every dash.
+    private float shootWaitTime = 1.0f; //must wait 1 sec between every buster shot
+    private float _lastshootButtonTime;
     // Time that the dash button was last pressed
     private float _lastDashButtonTime;
     // Time of the last dash
     private float _lastDashTime;
+    //Time of the last Buster shot
+    private float _lastShootTime;
+    private bool canShoot;
     [SerializeField]
     Transform GroundCheck;
     [SerializeField]
@@ -110,13 +115,24 @@ public class PlayerController2D : MonoBehaviour
 
     void Flip()
     {
+        facingRight = !facingRight; //flips character.
         transform.Rotate(0f, 180f, 0f);
     }
+    
     // End of Ricardo's code.
 
     // Update is called once per frame
     private void FixedUpdate()
     {
+
+        if (facingRight && Input.GetKey("right")||Input.GetKey("d"))
+        {
+            Flip();
+        }
+        else if(!facingRight && Input.GetKey("left")|| Input.GetKey("a"))
+        {
+            Flip();
+        }
         // Added by Ricardo Guerra
         // canDash becomes true when the dash is complete, and then another dash can be performed.
         // If you are still holding the dash button down when the dash is complete...        
@@ -237,14 +253,14 @@ public class PlayerController2D : MonoBehaviour
 
 
         //each time the character moves, they log the movement to a variable to tell if the character is facing right
-        if (facingRight && Input.GetKey("LeftControl")) //if the character is facing right and pressing the shoot button
+        if (facingRight && Input.GetKey(KeyCode.LeftControl)) //if the character is facing right and pressing the shoot button
         {
             Instantiate(Buster, firePoint.position, firePoint.rotation); //instantiate a bullet object
             animator.Play("ShootAnim"); 
         }
-        else if(!facingRight && Input.GetKey("LeftControl")){
+        else if(!facingRight && Input.GetKey(KeyCode.LeftControl)){
             Instantiate(BusterLeft, firePoint.position, firePoint.rotation);
-
+            animator.Play("ShootAnim");
         }
         
 
